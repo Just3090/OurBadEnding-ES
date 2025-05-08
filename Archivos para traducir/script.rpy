@@ -34,7 +34,7 @@ translate spanish start_870bc446:
 translate spanish start_bf1aa33f:
 
     # s "Yea."
-    s "Sip."
+    s "Síp."
 
 # game/script.rpy:236
 translate spanish start_bee2b63f:
@@ -46,7 +46,7 @@ translate spanish start_bee2b63f:
 translate spanish start_edac748c:
 
     # "Tie a red string to a banana tree."
-    "Amarramos un hilo rojo a un árbol de bananas."
+    "Amarramos un hilo rojo a un platanero."
 
 # game/script.rpy:246
 translate spanish start_f314224d:
@@ -70,7 +70,7 @@ translate spanish start_9a07a8d0:
 translate spanish start_d9cc5b88:
 
     # s "Yea, I know."
-    s "Seh, lo sé."
+    s "Síp, lo sé."
 
 # game/script.rpy:254
 translate spanish start_0ce76b97:
@@ -94,13 +94,13 @@ translate spanish start_1c079b02:
 translate spanish start_8349d508:
 
     # "{i}Make the wish in your heart{/i} — the blog had instructed. My heart thundered in my chest. {w}Huimin wished for us to stay best friends forever."
-    "Pide el deseo en tu corazón- decía el blog. My corazón tronó en mi pecho. Huimin deseó que fuéramos mejores amigas para siempre"
+    "'Pide el deseo en tu corazón', decía el blog. Mi corazón tronó en mi pecho. Huimin deseó que fuéramos mejores amigas para siempre"
 
 # game/script.rpy:263
 translate spanish start_d06c3818:
 
     # "And I—"
-    "Y yo-"
+    "Y yo..."
 
 # game/script.rpy:264
 translate spanish start_1c2e9825:
@@ -166,133 +166,133 @@ translate spanish syiraroom_ac7d4024:
 translate spanish syiraroom_66a7f5e2:
 
     # "Now I don’t know anymore."
-    ""
+    "Y ahora... no tengo ni idea."
 
 # game/script.rpy:294
 translate spanish syiraroom_102081ce:
 
     # "I think of that ritual. If it had worked, would it have saved or doomed me?"
-    ""
+    "Pienso en el ritual. Si hubiese funcionado, ¿me hubiese salvado, o condenado?"
 
 # game/script.rpy:295
 translate spanish syiraroom_63e44c9b:
 
     # "A tired sigh consumes me and I close my eyes. It’s too much for tonight. I don’t want to spiral into this again."
-    ""
+    "Me consume un cansado suspito mientras cierro los ojos. Esta noche ya ha sido suficiente, y no quiero seguir comiéndome la cabeza con esto."
 
 # game/script.rpy:299
 translate spanish syiraroom_28f24c15:
 
     # "I am indoors but there is sand beneath my feet. It must have followed me from the beach, stubborn even as I walked for miles, clinging to my soles to finally make it into my home."
-    ""
+    "Pese a estar dentro de casa, hay arena bajo mis pies. Me debe haber seguido de la playa, terca incluso aunque andase kilómetros, atrapada en mis pies hasta llegar a casa."
 
 # game/script.rpy:300
 translate spanish syiraroom_de78f5ad:
 
     # "But this is not my home. I am in someone else's house."
-    ""
+    "Pero no estoy en mi casa, sino en la de alguien."
 
 # game/script.rpy:304
 translate spanish syiraroom_698743b7:
 
     # "There is a stench in the air."
-    ""
+    "Se respira un hedor."
 
 # game/script.rpy:305
 translate spanish syiraroom_de24406a:
 
     # "The smell of a mess that had not been cleaned up, of something left out to rot."
-    ""
+    "El hedor de un desastre aún no limpiado... o que algo se había echado a perder. Una de dos."
 
 # game/script.rpy:306
 translate spanish syiraroom_988601c2:
 
     # "Something resembling..."
-    ""
+    "Algo que se parece a..."
 
 # game/script.rpy:309
 translate spanish syiraroom_d8a604bc:
 
     # "—!!{w=0.5}{nw}"
-    ""
+    "¡!{w=0.5}{nw}"
 
 # game/script.rpy:314
 translate spanish syiraroom_ab672654:
 
     # "It was a dream. As I shake off the grogginess, I realise my phone is ringing.{w} It must be the middle of the night. I frown — calls this late are never good."
-    ""
+    "Ha sido todo un sueño. Mientras me sacudo la debilidad, me doy cuenta de que mi teléfono suena.{w}Debe ser medianoche y las llamadas a esta hora nunca son amistosas."
 
 # game/script.rpy:319
 translate spanish syiraroom_56d45c7f:
 
     # "Huimin? Why would she…call {i}me?{/i}"
-    ""
+    "Es... ¿Huimin? Por qué... me llamaría."
 
 # game/script.rpy:320
 translate spanish syiraroom_815cc0b2:
 
     # "Despite the oddity of the call, my heart swells with fondness at the thought of her on the other side. Without sparing another moment, I accept the call."
-    ""
+    "Obviando lo extraño de una llamada a medianoche de ella, mi corazón se llena de felicidad plena pensando en que ella se encuentra al otro lado del teléfono, por lo que acepto la llamada."
 
 # game/script.rpy:322
 translate spanish syiraroom_d3061ae7:
 
     # h "Syira? Syira are you there?"
-    h ""
+    h "¿Syira? Oye, ¿Estás ahí?"
 
 # game/script.rpy:323
 translate spanish syiraroom_a0b9d5c5:
 
     # "She sounds frantic, her voice breathless and pitched."
-    ""
+    "Suena agitada. Su voz se entrecorta y habla de forma muy aguda."
 
 # game/script.rpy:324
 translate spanish syiraroom_184370a0:
 
     # s "I'm here. Huimin, I'm here. What's wrong?"
-    s ""
+    s "Estoy aquí, Huimin, estoy aquí. ¿Qué ocurre?"
 
 # game/script.rpy:325
 translate spanish syiraroom_4cd65055:
 
     # h "Oh my god, Syira I–"
-    h ""
+    h "Ay, Dios, Syira. Yo..."
 
 # game/script.rpy:326
 translate spanish syiraroom_b4ecc432:
 
     # "The line cracks, movement muffling the receiver. As I strain to hear her, I realise in horror that Huimin is crying."
-    ""
+    "Se corta la llamada y el movimiento amortigua el auricular. Mientras trato de escucharla, me hallo en puro terror: Huimin está llorando."
 
 # game/script.rpy:327
 translate spanish syiraroom_a4fd2c94:
 
     # s "Calm down, tell me what happened."
-    s ""
+    s "Oye, tranquila. Dime qué está ocurriendo."
 
 # game/script.rpy:328
 translate spanish syiraroom_4d21ef69:
 
     # h "D-David and I had a fight and– I pushed him by accident and then he just…"
-    h ""
+    h "D-David y yo n-nos peleamos y... Y-Yo lo empujé por accidente y él..."
 
 # game/script.rpy:329
 translate spanish syiraroom_a3e4674b:
 
     # s "He just…?"
-    s ""
+    s "¿Él...?"
 
 # game/script.rpy:330
 translate spanish syiraroom_797bf94b:
 
     # h "Can you come to the chalet, please? I don't know what to do!"
-    h ""
+    h "¿Puedes venir conmigo al chalet, por favor? ¡Ya no sé qué hacer!"
 
 # game/script.rpy:331
 translate spanish syiraroom_d64b4fdf:
 
     # s "Okay, can you text me the address? I'll go now."
-    s ""
+    s "Vale, ¿me envías la dirección? Me paso por ahí lo más rápido que pueda."
 
 # game/script.rpy:332
 translate spanish syiraroom_e6b58bb4:
