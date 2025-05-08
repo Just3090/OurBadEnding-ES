@@ -4,163 +4,163 @@
 translate spanish start_0620e3fe:
 
     # "The night was sweltering, warm with a heavy humidity that sank into my clothes. {w}I feared that reaching to put on our shoes would wake someone, so we snuck out of the camp barefoot."
-    ""
+    "La noche era sofocante, una calidez bastante húmeda se hundía en mi ropa. Temía que al intentar alcanzar mis zapatos terminase despertando a alguien, así que nos escabullimos del campamento descalzas."
 
 # game/script.rpy:226
 translate spanish start_186abb21:
 
     # "But I barely noticed the earth caked between my toes — instead I was focused on her hand, warm where it was wrapped around my own."
-    ""
+    "A pesar de ello, apenas notaba la tierra tragarse mis pies - en cambio, estaba concentrada en su cálida mano, la cual estaba entrelazada con la mía."
 
 # game/script.rpy:227
 translate spanish start_c8722eff:
 
     # "I let her lead me along to the forest at the edge of the campsite."
-    ""
+    "La dejé guiarme a través del bosque hasta el borde del campamento."
 
 # game/script.rpy:232
 translate spanish start_74b0b203:
 
     # h "Syira, do you have the string?"
-    h ""
+    h "Syira, tienes un hilo?"
 
 # game/script.rpy:233
 translate spanish start_870bc446:
 
     # "I blinked, then felt around in my pocket for the spool of red thread. I had taken it from my home economics kit before we left for the trip, along with a small pair of scissors."
-    ""
+    "Parpadeé, luego busqué en mi bolsillo por el carrete de hilo rojo. Lo saqué de un kit básico que había en mi casa antes de que nos fuéramos por el viaje, junto a un par de tijeras."
 
 # game/script.rpy:234
 translate spanish start_bf1aa33f:
 
     # s "Yea."
-    s ""
+    s "Sip."
 
 # game/script.rpy:236
 translate spanish start_bee2b63f:
 
     # "We had first discovered the ritual on a blog. There had been many, ranging from confusing to downright morbid. But when we landed on this one, it felt safe enough to try. After all, we just had to–"
-    ""
+    "Habíamos descubierto el ritual en un blog. Habían de todo tipo, desde confusos hasta cosas directamente mórbidas. Pero cuando vimos este, se sintió lo suficientemente seguro como para probarlo. Después de todo, solo teníamos que-"
 
 # game/script.rpy:241
 translate spanish start_edac748c:
 
     # "Tie a red string to a banana tree."
-    ""
+    "Amarramos un hilo rojo a un árbol de bananas."
 
 # game/script.rpy:246
 translate spanish start_f314224d:
 
     # "Connect that same string to our pinkies."
-    ""
+    "Conectamos ese mismo hilo a nuestros meñiques."
 
 # game/script.rpy:251
 translate spanish start_28606840:
 
     # "And make our wish."
-    ""
+    "Y pedimos nuestro deseo."
 
 # game/script.rpy:252
 translate spanish start_9a07a8d0:
 
     # h "Remember, we have to make the same wish or it won’t come true."
-    h ""
+    h "Recuerda, tenemos que pedir lo mismo o no se hará realidad."
 
 # game/script.rpy:253
 translate spanish start_d9cc5b88:
 
     # s "Yea, I know."
-    s ""
+    s "Seh, lo sé."
 
 # game/script.rpy:254
 translate spanish start_0ce76b97:
 
     # h "Best friends forever."
-    h ""
+    h "Mejores amigas para siempre."
 
 # game/script.rpy:260
 translate spanish start_9f834af4:
 
     # "I nodded to show her that I had understood. Huimin returned a smile, gentle and sincere. Even in the dark where I could barely make out her features, the gesture made my chest tight."
-    ""
+    "Asentí para mostrarle a ella que había entendido. Huimin me dió una sonrisa, gentil y sincera. Incluso en una oscuridad tal en la que apenas podía distinguir su rostro, el gesto me hizo sentir cosquillas en el pecho."
 
 # game/script.rpy:261
 translate spanish start_1c079b02:
 
     # "Then, we both lowered our heads and clasped our hands together again."
-    ""
+    "Luego, ambas agachamos nuestras cabezas y nos agarramos las manos de nuevo."
 
 # game/script.rpy:262
 translate spanish start_8349d508:
 
     # "{i}Make the wish in your heart{/i} — the blog had instructed. My heart thundered in my chest. {w}Huimin wished for us to stay best friends forever."
-    ""
+    "Pide el deseo en tu corazón- decía el blog. My corazón tronó en mi pecho. Huimin deseó que fuéramos mejores amigas para siempre"
 
 # game/script.rpy:263
 translate spanish start_d06c3818:
 
     # "And I—"
-    ""
+    "Y yo-"
 
 # game/script.rpy:264
 translate spanish start_1c2e9825:
 
     # "I wished for her to be mine."
-    ""
+    "Deseé que ella fuese mía."
 
 # game/script.rpy:272
 translate spanish syiraroom_ab0c6d4c:
 
     # "Whatever demon or spirit that was supposed to grant our wish never did."
-    ""
+    "Cualquier demonio o espíritu que se suponía que iba a cumplir nuestro deseo, jamás lo hizo"
 
 # game/script.rpy:275
 translate spanish syiraroom_c3d18a24:
 
     # "More than a decade later, Huimin and I are neither together nor best friends. At least, best friends probably see each other more in-person than on Instagram."
-    ""
+    "Más de diez años después, Huimin y yo seguimos juntas pero no como mejores amigas. Al menos creo que los mejores amigos quizás se vean más en persona que en Instagram."
 
 # game/script.rpy:280
 translate spanish syiraroom_e989709b:
 
     # "Instead, she’s been seeing this guy for five years. Their smiling faces pressed together along with the caption teases me: {i}anniversary chalet with the bae!{/i}"
-    ""
+    "En cambio, ella ha estado viendo a este tipo por 5 años. Sus caras sonrientes pegadas entre sí junto con la descripción llaman mi atención: Chalet de aniversario con mi amorcito"
 
 # game/script.rpy:281
 translate spanish syiraroom_9e69a06e:
 
     # "I can already see how it will all go from here. Soon, they’ll get engaged. Then they’ll apply for a BTO flat, get married, and move out together."
-    ""
+    "Ya puedo imaginar como irá todo desde aquí. Pronto se comprometerán. Aplicarán para un apartamento en BTO, se casarán, y se mudarán juntos."
 
 # game/script.rpy:282
 translate spanish syiraroom_ddd8495b:
 
     # "It’s the ever popular Singaporean dream of building a nuclear family."
-    ""
+    "Es el popular sueño singapurense de construir una familia nuclear."
 
 # game/script.rpy:283
 translate spanish syiraroom_af942421:
 
     # "Huimin had always wanted her own place, so I should be happy for her. But bitterness churns in my stomach."
-    ""
+    "Huimin siempre quizo su propio lugar, así que debería alegrarme por ella. Pero mi estómago se llena de amargura."
 
 # game/script.rpy:284
 translate spanish syiraroom_ec62efcd:
 
     # "Her boyfriend's smile taunts me, reminding me of what I can't have with her in this stupid, heteronormative country."
-    ""
+    "Siento como si la sonrisa de su novio se burlase de mí, recordándome lo que no puedo tener con ella en este país estúpido y heteronormativo."
 
 # game/script.rpy:288
 translate spanish syiraroom_a9441afc:
 
     # "I close the app."
-    ""
+    "Cierro la aplicación."
 
 # game/script.rpy:292
 translate spanish syiraroom_ac7d4024:
 
     # "Years ago, despite everything, I thought we had a chance. I thought that if life just meandered and turned in the right way, if we were stubborn enough and lived on our own rules, we could have our happy ending too."
-    ""
+    "Años atrás, a pesar de todo, pensé que teníamos una posibilidad. Pensé que si la vida solo seguía y las cosas salían de la forma correcta, si hubiésemos sido lo suficientemente osadas y vivido bajo nuestras propias reglas, pudimos haber tenido un final feliz también."
 
 # game/script.rpy:293
 translate spanish syiraroom_66a7f5e2:
