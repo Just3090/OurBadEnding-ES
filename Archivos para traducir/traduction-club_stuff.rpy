@@ -4,9 +4,9 @@ translate spanish strings:
 
     # game/traduction-club_stuff.rpy:27
     old "Please select a language"
-    new ""
+    new "Por favor, seleccione un idioma."
 
     # game/traduction-club_stuff.rpy:53
     old "OK"
-    new ""
+    new "Vale."
 
