@@ -178,7 +178,7 @@ translate spanish syiraroom_102081ce:
 translate spanish syiraroom_63e44c9b:
 
     # "A tired sigh consumes me and I close my eyes. It’s too much for tonight. I don’t want to spiral into this again."
-    "Me consume un cansado suspito mientras cierro los ojos. Esta noche ya ha sido suficiente, y no quiero seguir comiéndome la cabeza con esto."
+    "Me consume un cansado suspiro mientras cierro los ojos. Esta noche ya ha sido suficiente, y no quiero seguir comiéndome la cabeza con esto."
 
 # game/script.rpy:299
 translate spanish syiraroom_28f24c15:
