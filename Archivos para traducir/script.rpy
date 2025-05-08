@@ -232,7 +232,7 @@ translate spanish syiraroom_56d45c7f:
 translate spanish syiraroom_815cc0b2:
 
     # "Despite the oddity of the call, my heart swells with fondness at the thought of her on the other side. Without sparing another moment, I accept the call."
-    "Obviando lo extraño de una llamada a medianoche de ella, mi corazón se llena de felicidad plena pensando en que ella se encuentra al otro lado del teléfono, por lo que acepto la llamada."
+    "Obviando lo extraño de una llamada a medianoche de ella, mi corazón se llena de felicidad plena pensando en que se encuentra al otro lado del teléfono, por lo que acepto la llamada."
 
 # game/script.rpy:322
 translate spanish syiraroom_d3061ae7:
