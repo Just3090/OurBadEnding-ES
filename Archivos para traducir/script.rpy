@@ -10,7 +10,7 @@ translate spanish start_0620e3fe:
 translate spanish start_186abb21:
 
     # "But I barely noticed the earth caked between my toes — instead I was focused on her hand, warm where it was wrapped around my own."
-    "A pesar de ello, apenas notaba la tierra tragarse mis pies - en cambio, estaba concentrada en su cálida mano, la cual estaba entrelazada con la mía."
+    "A pesar de ello, apenas notaba la tierra tragarse mis pies. En cambio, estaba concentrada en su cálida mano, la cual estaba entrelazada con la mía."
 
 # game/script.rpy:227
 translate spanish start_c8722eff:
@@ -22,13 +22,13 @@ translate spanish start_c8722eff:
 translate spanish start_74b0b203:
 
     # h "Syira, do you have the string?"
-    h "Syira, tienes un hilo?"
+    h "Syira, ¿tienes el hilo?"
 
 # game/script.rpy:233
 translate spanish start_870bc446:
 
     # "I blinked, then felt around in my pocket for the spool of red thread. I had taken it from my home economics kit before we left for the trip, along with a small pair of scissors."
-    "Parpadeé, luego busqué en mi bolsillo por el carrete de hilo rojo. Lo saqué de un kit básico que había en mi casa antes de que nos fuéramos por el viaje, junto a un par de tijeras."
+    "Parpadeé, luego busqué en mi bolsillo por el carrete de hilo rojo. Lo saqué de un estuche de costura antes de que nos fuéramos por el viaje, junto a un par de tijeritas."
 
 # game/script.rpy:234
 translate spanish start_bf1aa33f:
@@ -40,13 +40,13 @@ translate spanish start_bf1aa33f:
 translate spanish start_bee2b63f:
 
     # "We had first discovered the ritual on a blog. There had been many, ranging from confusing to downright morbid. But when we landed on this one, it felt safe enough to try. After all, we just had to–"
-    "Habíamos descubierto el ritual en un blog. Habían de todo tipo, desde confusos hasta cosas directamente mórbidas. Pero cuando vimos este, se sintió lo suficientemente seguro como para probarlo. Después de todo, solo teníamos que-"
+    "Habíamos descubierto el ritual en un blog. Habían de todo tipo, desde confusos hasta cosas directamente mórbidas. Pero cuando vimos este, se sintió lo suficientemente seguro como para probarlo. Después de todo, solo teníamos que..."
 
 # game/script.rpy:241
 translate spanish start_edac748c:
 
     # "Tie a red string to a banana tree."
-    "Amarramos un hilo rojo a un platanero."
+    "Amarramos el hilo rojo a un platanero."
 
 # game/script.rpy:246
 translate spanish start_f314224d:
@@ -94,7 +94,7 @@ translate spanish start_1c079b02:
 translate spanish start_8349d508:
 
     # "{i}Make the wish in your heart{/i} — the blog had instructed. My heart thundered in my chest. {w}Huimin wished for us to stay best friends forever."
-    "'Pide el deseo en tu corazón', decía el blog. Mi corazón tronó en mi pecho. Huimin deseó que fuéramos mejores amigas para siempre"
+    "'Pide el deseo en tu corazón', decía el blog. Mi corazón tronó en mi pecho. Huimin deseó que fuéramos mejores amigas para siempre."
 
 # game/script.rpy:263
 translate spanish start_d06c3818:
@@ -112,7 +112,7 @@ translate spanish start_1c2e9825:
 translate spanish syiraroom_ab0c6d4c:
 
     # "Whatever demon or spirit that was supposed to grant our wish never did."
-    "Cualquier demonio o espíritu que se suponía que iba a cumplir nuestro deseo, jamás lo hizo"
+    "Cualquier demonio o espíritu que se suponía que iba a cumplir nuestro deseo, jamás lo hizo."
 
 # game/script.rpy:275
 translate spanish syiraroom_c3d18a24:
@@ -124,25 +124,25 @@ translate spanish syiraroom_c3d18a24:
 translate spanish syiraroom_e989709b:
 
     # "Instead, she’s been seeing this guy for five years. Their smiling faces pressed together along with the caption teases me: {i}anniversary chalet with the bae!{/i}"
-    "En cambio, ella ha estado viendo a este tipo por 5 años. Sus caras sonrientes pegadas entre sí junto con la descripción llaman mi atención: Chalet de aniversario con mi amorcito"
+    "En cambio, ella ha estado viendo a este tipo por 5 años. Sus caras sonrientes pegadas una contra la otra, junto con el pie de foto, se burlan de mí: {i}¡fin de semana de aniversario en el chalet con mi churri!{/i}"
 
 # game/script.rpy:281
 translate spanish syiraroom_9e69a06e:
 
     # "I can already see how it will all go from here. Soon, they’ll get engaged. Then they’ll apply for a BTO flat, get married, and move out together."
-    "Ya puedo imaginar como irá todo desde aquí. Pronto se comprometerán. Aplicarán para un apartamento en BTO, se casarán, y se mudarán juntos."
+    "Ya puedo imaginar cómo irá todo desde aquí. Pronto se comprometerán. Luego pedirán un piso BTO, se casarán y se irán a vivir juntos."
 
 # game/script.rpy:282
 translate spanish syiraroom_ddd8495b:
 
     # "It’s the ever popular Singaporean dream of building a nuclear family."
-    "Es el popular sueño singapurense de construir una familia nuclear."
+    "Es el tan popular sueño singapurense de formar una familia nuclear desde cero."
 
 # game/script.rpy:283
 translate spanish syiraroom_af942421:
 
     # "Huimin had always wanted her own place, so I should be happy for her. But bitterness churns in my stomach."
-    "Huimin siempre quizo su propio lugar, así que debería alegrarme por ella. Pero mi estómago se llena de amargura."
+    "Huimin siempre quiso su propio lugar, así que debería alegrarme por ella. Pero mi estómago se llena de amargura."
 
 # game/script.rpy:284
 translate spanish syiraroom_ec62efcd:
