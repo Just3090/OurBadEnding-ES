@@ -298,415 +298,415 @@ translate spanish syiraroom_d64b4fdf:
 translate spanish syiraroom_e6b58bb4:
 
     # h "Yes…yes, I'll text you. You'll help me, right?"
-    h ""
+    h "Sí sí, ya te la mando. Pero vas a ayudarme ¿verdad?"
 
 # game/script.rpy:333
 translate spanish syiraroom_0dea2040:
 
     # s "Of course, we're best friends."
-    s ""
+    s "Por supuesto, somos mejores amigas."
 
 # game/script.rpy:334
 translate spanish syiraroom_97336407:
 
     # "I don't know why I said that. We haven't even acknowledged that in years."
-    ""
+    "No sé por qué dije eso. No hemos sido conscientes de ello en años."
 
 # game/script.rpy:335
 translate spanish syiraroom_54ace761:
 
     # h "Thanks, Syira."
-    h ""
+    h "Gracias, Syira."
 
 # game/script.rpy:339
 translate spanish syiraroom_5c2914c6:
 
     # "After the call ends, I stare at the screen, letting it sink in."
-    ""
+    "Apenas termina la llamada, miro a la pantalla intentando asimilar todo."
 
 # game/script.rpy:340
 translate spanish syiraroom_76794b68:
 
     # "Something had happened between Huimin and her boyfriend.{w} Something bad.{w} My first thought was that he had hurt her. But {i}she{/i} said she had pushed {i}him.{/i}"
-    ""
+    "Algo había sucedido entre Huimin y su novio. Algo malo. Mi primer pensamiento era que le había hecho daño, pero ella dijo que lo empujó."
 
 # game/script.rpy:341
 translate spanish syiraroom_32de7276:
 
     # "A dark, malicious thought began to take root in my head.{w} Are things finally turning in my favour? Did the demon coiled in the trunk of that banana tree hear my wish after all?"
-    ""
+    "Un pensamiento malicioso comenzó a arraigarse en mi cabeza. ¿Las cosas finalmente estaban saliendo a mi favor? ¿Acaso el demonio atrapado en el tronco de ese árbol de bananas escuchó mi deseo después de todo?"
 
 # game/script.rpy:342
 translate spanish syiraroom_0fefa077:
 
     # "My phone pings, startling me out of my thoughts."
-    ""
+    "Mi teléfono vibra, despertándome de mis pensamientos."
 
 # game/script.rpy:343
 translate spanish syiraroom_a6913b86:
 
     # "A few texts had come in from Huimin. The first one was a badly typed address, followed by another text that corrects a few typos while also making new ones. Finally, a third one comes in with everything laid out, corrected."
-    ""
+    "Huimin había enviado algunos mensajes. El primero era una dirección escrita de forma pobre, seguido de otro texto que corregía y añadía algunas cosas. Finalmente, el tercer mensaje venía con todo bien escrito y corregido."
 
 # game/script.rpy:344
 translate spanish syiraroom_82d05a88:
 
     # "{i}This one.{/i} She says. {i}Sorry.{/i}"
-    ""
+    "En este. Ella dice. Lo siento."
 
 # game/script.rpy:345
 translate spanish syiraroom_193c38de:
 
     # "I fire a quick text back to acknowledge it, then move to get changed to leave the house. At this hour, the buses and trains have long stopped running."
-    ""
+    "Le envío un mensaje rápido y procedo a cambiarme para salir de casa. A estas alturas de la noche el transporte público ya no está funcionando."
 
 # game/script.rpy:346
 translate spanish syiraroom_af44512a:
 
     # "A cab is too expensive. I grab my bicycle instead."
-    ""
+    "Un taxi sería demasiado caro. Opto por usar mi bicicleta."
 
 # game/script.rpy:353
 translate spanish chalet_f0e04541:
 
     # "I know the chalet is about twenty minutes away by bike. It's an old establishment on East Coast park, popular for barbecues near the beach."
-    ""
+    "Sé que el chalet queda aproximadamente a 20 minutos en bici. Es una instalación vieja en el parque de East Coast, famosa por sus barbacoas junto a la playa."
 
 # game/script.rpy:354
 translate spanish chalet_9875865a:
 
     # "I've been there many years ago, as part of our secondary school class gathering. It was supposed to be a fun sleepover with everyone — which in theory was exciting, but became a huge mess in execution."
-    ""
+    "Estuve ahí varios años atrás, como parte de una salida de nuestra escuela secundaria. Se suponía que sería una pijamada divertida entre todos - lo que en teoría es emocionante, pero se convirtió en todo un desastre en ejecución."
 
 # game/script.rpy:355
 translate spanish chalet_68078e5a:
 
     # "Eventually, Huimin snuck over to my house and slept over there instead. I hated the class trip, but our own sleepover felt special. That was when we–"
-    ""
+    "Eventualmente, Huimin se escabullió a mi casa y se quedó a dormir ahí. Odié el viaje de clase, pero nuestra propia pijamada se sintió especial. Eso fue cuando nosotras-"
 
 # game/script.rpy:359
 translate spanish chalet_cc8b7e66:
 
     # "I stop my thoughts there.{w} I've arrived at Huimin’s chalet. It's dark, but I can make out the villa number beside the door. It's one of the last few villas at the edge of the property, closer to the forest than the beach."
-    ""
+    "Detengo mis pensamientos justo ahí. Llegué al chalet de Huimin. Está oscuro, pero logro distinguir el número de la villa junto a la puerta. Es una de las pocas que hay al borde de la propiedad, las más cercanas al bosque que a la playa."
 
 # game/script.rpy:361
 translate spanish chalet_42f08075:
 
     # "I leave my bicycle by the side of the road and walk up to the door. I knock three times."
-    ""
+    "Dejo mi bicicleta al lado de la carretera y camino hasta la puerta. Golpeo tres veces."
 
 # game/script.rpy:365
 translate spanish chalet_3262ae74:
 
     # s "Huimin? It's me, Syira."
-    s ""
+    s "¿Huimin? Soy yo, Syira."
 
 # game/script.rpy:369
 translate spanish chalet_52c97b1f:
 
     # "The door unlocks and Huimin peers out. I'm taken aback by the blood soaked into her clothes."
-    ""
+    "La puerta se abre y Huimin se asoma. Quedo en shock al ver la sangre atrapada en su ropa."
 
 # game/script.rpy:370
 translate spanish chalet_ad3735a2:
 
     # s "H-Huimin?"
-    s ""
+    s "¿H-Huimin?"
 
 # game/script.rpy:372
 translate spanish chalet_f4a15143:
 
     # h "Syira!"
-    h ""
+    h "¡Syra!"
 
 # game/script.rpy:373
 translate spanish chalet_3b45ac6c:
 
     # "She reaches for my arm, grabbing on tightly. Her nails dig into my flesh as she trembles violently."
-    ""
+    "Ella agarra fuertemente mi brazo. Sus uñas entran en mi piel mientras se agita violentamente"
 
 # game/script.rpy:374
 translate spanish chalet_9b63ae8e:
 
     # h "I can trust you right? Promise me you won't call the police. Promise me, please!"
-    h ""
+    h "¿Puedo confiar en ti verdad? Prométeme que no llamarás a la policía ¡¡Prométemelo por favor!!"
 
 # game/script.rpy:375
 translate spanish chalet_eff977c2:
 
     # "The words tumble out of her, a desperate and incoherent plea. My mind is whirring."
-    ""
+    "Las palabras salen disparadas de su boca, es una mescolanza desesperada e inchoherente. Mi mente no hace más que temblar."
 
 # game/script.rpy:377
 translate spanish chalet_b90d1fe8:
 
     # s "Are…you hurt?"
-    s ""
+    s "¿Estás... herida?"
 
 # game/script.rpy:378
 translate spanish chalet_78486174:
 
     # h "Huh?"
-    h ""
+    h "¿Huh?"
 
 # game/script.rpy:379
 translate spanish chalet_160fa726:
 
     # "I reach out with my other hand, pushing back her unkempt hair to look at her face properly. It seems like there's blood everywhere, even splattered on her face. It makes me sick, thinking any of it could be hers."
-    ""
+    "Uso mi mano para mover su cabello desaliñado para poder ver bien su rostro. Al parecer hay sangre por todos lados, incluso en su cara. Me enferma pensar que podría ser de ella."
 
 # game/script.rpy:380
 translate spanish chalet_20b5ad5e:
 
     # s "The blood. Did you get hurt?"
-    s ""
+    s "La sangre ¿te hicieron daño?"
 
 # game/script.rpy:381
 translate spanish chalet_6388aa73:
 
     # "Huimin finally realises what I'm asking about. She peers down at her shirt, seeming to take in her own appearance with fresh shock."
-    ""
+    "Huimin finalmente se da cuenta de qué le estoy preguntando. Mira su propia camisa, parece que apenas cae en cuenta sobre su apariencia con una expresión de shock."
 
 # game/script.rpy:382
 translate spanish chalet_c7c3e96e:
 
     # h "I…it's not mine."
-    h ""
+    h "Yo... n-no es mía."
 
 # game/script.rpy:384
 translate spanish chalet_e043d770:
 
     # s "Okay."
-    s ""
+    s "Está bien."
 
 # game/script.rpy:385
 translate spanish chalet_122f19c2:
 
     # "I breathe a sigh of relief."
-    ""
+    "Respiro profundamente de alivio."
 
 # game/script.rpy:388
 translate spanish chalet_526429b5:
 
     # h "But Syira, I did something bad. Please don't call the police yet, okay? I didn't mean it! I really didn't mean it!"
-    h ""
+    h "Pero Syira, hice algo malo. Por favor no llames a la policía aún ¿vale? !No quise hacerlo! ¡De verdad no quise hacerlo!"
 
 # game/script.rpy:389
 translate spanish chalet_308c9b44:
 
     # h "You'll help me, right?"
-    h ""
+    h "Me vas a ayudar ¿cierto?"
 
 # game/script.rpy:390
 translate spanish chalet_db037266:
 
     # "Her tear-stained face tugs at my heart. Whatever conscience I had crumbles easily in the sway of her plea. I have a slow, sinking realisation — like an anchor doomed for the ocean floor — {w}that I was ready to do whatever she asked of me."
-    ""
+    "Su cara marcada por lágrimas arruga mi corazón. Cualquier rastro de consciencia que tenía padece fácilmente ante su súplica. Tuve una realización muy profunda y lenta - como un ancla estancada en el piso oceánico - Estaba dispuesta a hacer lo que sea que ella me pidiese."
 
 # game/script.rpy:392
 translate spanish chalet_476a8718:
 
     # s "Of course. I'll help you."
-    s ""
+    s "Por supuesto. Te ayudaré."
 
 # game/script.rpy:394
 translate spanish chalet_4cf7c409:
 
     # "A small relief blooms on her face, but quickly disappears as she leads me into the villa."
-    ""
+    "Su rostro muestra una pequeña señal de alivio, la cual desaparece rápidamente mientras me guía hacia la villa."
 
 # game/script.rpy:398
 translate spanish chalet_22f5434b:
 
     # h "He's…here."
-    h ""
+    h "El... está aquí."
 
 # game/script.rpy:399
 translate spanish chalet_2c1d6f8d:
 
     # "Huimin pauses in the doorway leading to the living area. It's the scene from my dream, but crystal clear and real."
-    ""
+    "Huimin se detiene en la entrada que lleva hacia la sala de estar. Es la escena de mi sueño, pero completamente real y tangible."
 
 # game/script.rpy:400
 translate spanish chalet_f67398a2:
 
     # "The room is in disarray, furniture upturned and thrown from its original place — the remnants of a fight. David has collapsed head-first into a glass table, shards exploded and littered over the floor with blood pooling under his body."
-    ""
+    "La habitación está en desorden, con muebles volteados y tirados lejos de su lugar original - los restos de una pelea. David ha colapsado con su cabeza en una mesa de cristal, los fragmentos se reventaron y se esparcieron en todo el suelo junto con un charco de sangre bajo su cuerpo."
 
 # game/script.rpy:401
 translate spanish chalet_8bf88fa7:
 
     # "Did Huimin do this?"
-    ""
+    "¿Acaso Huimin hizo esto?"
 
 # game/script.rpy:402
 translate spanish chalet_b671b799:
 
     # "Beside me, a loud gasp escapes her."
-    ""
+    "A mi lado, un jadeo fuerte se le escapa."
 
 # game/script.rpy:405
 translate spanish chalet_a71b27e7:
 
     # h "Oh my god…oh my god…"
-    h ""
+    h "Oh por dios... oh por dios..."
 
 # game/script.rpy:406
 translate spanish chalet_a57067ad:
 
     # h "S-Syira, did I k-kill him?"
-    h ""
+    h "S-Syira ¿lo m-maté?"
 
 # game/script.rpy:409
 translate spanish chalet_1e60b366:
 
     # "I hold my breath, heart hammering in my chest as I approach the man. The glass crunches under my shoes and blood sticks to the soles. This close, the blood stuck in his hair and skin is dark and viscous, something vile and utterly wrong."
-    ""
+    "Aguanto mi respiración, mi corazón palpita cual martillo mientras me acerco al hombre. El vidrio cruje bajo mis zapatos y la sangre se pega a las suelas. Así de cerca, la sangre atorada en su cabello y piel es oscura y viscosa, esto se siente vil y absolutamente mal."
 
 # game/script.rpy:410
 translate spanish chalet_dde82ce7:
 
     # "I knew the answer before I pressed two fingers to his neck — that there would be no pulse."
-    ""
+    "Sabía la respuesta bastante antes de presionar mis dos dedos en su cuello - no iba a haber pulso alguno."
 
 # game/script.rpy:411
 translate spanish chalet_6b91b469:
 
     # s "He's dead."
-    s ""
+    s "Está muerto."
 
 # game/script.rpy:414
 translate spanish chalet_2e86f13b:
 
     # "Huimin screams, chest heaving like an animalistic reaction."
-    ""
+    "Huimin grita desde lo más hondo de su pecho, es una reacción casi animal."
 
 # game/script.rpy:415
 translate spanish chalet_8fa9fbc7:
 
     # "I whirl around, pushing her hair back to look at her face. She looked pathetic, pale and trembling as she all but fell apart."
-    ""
+    "Camino alrededor, moviendo su cabello hacia atrás para mirar su rostro. Se veía patética, pálida y agitada mientras no podía hacer más que venirse abajo."
 
 # game/script.rpy:418
 translate spanish chalet_379bd7d2:
 
     # s "Huimin, look at me."
-    s ""
+    s "Huimin, mírame."
 
 # game/script.rpy:421
 translate spanish chalet_b5d4c318:
 
     # s "I promised that I'll help you, right?"
-    s ""
+    s "Prometí ayudarte ¿no?"
 
 # game/script.rpy:422
 translate spanish chalet_1901ce9a:
 
     # "She nods slowly."
-    ""
+    "Ella asiente lentamente."
 
 # game/script.rpy:423
 translate spanish chalet_c0dffb50:
 
     # s "So I'll help you. Let's bury him. And then clean up."
-    s ""
+    s "Así que te ayudaré. Ahora enterrémoslo y limpiemos esto."
 
 # game/script.rpy:425
 translate spanish chalet_d73d52d8:
 
     # h "Okay."
-    h ""
+    h "Vale."
 
 # game/script.rpy:428
 translate spanish chalet_36d11724:
 
     # "I tug on Huimin's arm, helping her up to her feet. She pointedly avoids looking at David again, rifling through a few drawers before pulling out large black trash bags. I let her handle his feet while I dealt with his bloodied head."
-    ""
+    "Jalo a Huimin del brazo, ayudándola a levantarse. Ella evita reiteradamente mirar a David de nuevo, arrastrándose por algunos tocadores antes de sacar unas bolsas de basura de gran tamaño. Ella se encarga de los pies mientras yo de su cabeza ensangrentada."
 
 # game/script.rpy:429
 translate spanish chalet_2e8e0b2e:
 
     # "Together, we wrapped the body in layers and layers of black plastic, until we could see neither his skin or the clothes on his back."
-    ""
+    "Juntas, envolvemos el cuerpo en varias capas de plástico negro, hasta que ya no podíamos ver ni su piel o su ropa a través de el material."
 
 # game/script.rpy:432
 translate spanish chalet_aa849d41:
 
     # "We drag the body out to the back. The chalet sits on the edge of the property, facing out into a forest. Grass had overgrown in neglect, long and spindly at our feet."
-    ""
+    "Arrastramos el cuerpo hasta la zona trasera. El chalet se encuentra en el borde de la propiedad, de cara a un bosque. El pasto había crecido de forma descuidada, larga y delgada en nuestros pies."
 
 # game/script.rpy:433
 translate spanish chalet_e79bf5f4:
 
     # s "Let’s bury him here."
-    s ""
+    s "Enterrémoslo aquí.
 
 # game/script.rpy:435
 translate spanish chalet_8f171613:
 
     # "I dug my hand into the earth, prying grass and soil away. It’s long, arduous work, toiling away with nothing but our bare bodies."
-    ""
+    "Cavo la tierra con mi mano, moviendo el pasto y la tierra a un lado. Es una labor larga y ardua el excavar con nada más que nuestros cuerpos."
 
 # game/script.rpy:436
 translate spanish chalet_77b0972a:
 
     # "Maybe we should have scoured for tools in the house — something to use as a shovel. But as I peer over at Huimin, the bare motion seems to feel like repentance."
-    ""
-
+    "Quizás debimos haber buscado herramientas en la casa - algo que usar como pala. Pero cuando miro a Huimin, veo que la noción básica de cavar se siente como remordimiento para ella."
+ 
 # game/script.rpy:438
 translate spanish chalet_1ef76db7:
 
     # "I don’t speak a word to her. I just keep digging, nails growing black with dirt and skin turning bloodied. {w}We paid, together."
-    ""
+    "No le digo una sola palabra. Solo sigo cavando, mis uñas se vuelven negras por la tierra y mi piel algo sangrienta. Pagamos esto juntas."
 
 # game/script.rpy:439
 translate spanish chalet_a8857307:
 
     # "When at last a large enough hole appeared, we pushed the body in and covered it up."
-    ""
+    "Cuando finalmente parece un agujero lo suficientemente profundo, empujamos el cuerpo adentro y lo cubrimos."
 
 # game/script.rpy:442
 translate spanish chalet_dc38a2d0:
 
     # "The room also needed cleaning up."
-    ""
+    "La habitación también necesitaba una limpieza."
 
 # game/script.rpy:443
 translate spanish chalet_9aabb762:
 
     # "Huimin gathers a broom to sweep up the glass shards that had flown to every corner of the room upon impact. I scrub blood off the tiles, turning an old rag pink."
-    ""
+    "Huimin saca una escoba para barrer los fragmentos de vidrio que habían volado por toda la sala con el impacto. Yo restrego la sangre de la baldoza, dejando al viejo pañuelo que usé de color rosado."
 
 # game/script.rpy:449
 translate spanish chalet_eeeb2b30:
 
     # s "I think…we're done."
-    s ""
+    s "Creo que... acabamos."
 
 # game/script.rpy:451
 translate spanish chalet_4dabbb13:
 
     # "Huimin stares at me wordlessly, eyes blinking in a daze. I realise her blouse is still soaked with blood, the substance caking into her hair along with dirt from the backyard. Her face is blotchy with dried tears, sweat pooling at her neck."
-    ""
+    "Huimin me mira sin decir nada, con sus aturdidos ojos parpadeando. Me doy cuenta que su blusa sigue llena de sangre, que también se encuentra pegada en su pelo junto a la suciedad del patio. Su cara está enrojecida con lágrimas secas mientras hay sudor corriendo por su cuello."
 
 # game/script.rpy:452
 translate spanish chalet_39ca36e7:
 
     # s "You should take a shower."
-    s ""
+    s "Deberías tomar una ducha."
 
 # game/script.rpy:453
 translate spanish chalet_a3416b1b:
 
     # "Huimin reaches out, fingers closing around my jacket."
-    ""
+    "Huimin se me acerca, con sus dedos rozando mi chaqueta."
 
 # game/script.rpy:454
 translate spanish chalet_b18967cf:
 
     # h "You too."
-    h ""
+    h "Tú también."
 
 # game/script.rpy:460
 translate spanish bathroom_a6536986:
