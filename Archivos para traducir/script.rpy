@@ -298,19 +298,19 @@ translate spanish syiraroom_d64b4fdf:
 translate spanish syiraroom_e6b58bb4:
 
     # h "Yes…yes, I'll text you. You'll help me, right?"
-    h "Sí sí, ya te la mando. Pero vas a ayudarme ¿verdad?"
+    h "Sí, sí, te la envío ahora mismo. Vas a ayudarme ¿no?"
 
 # game/script.rpy:333
 translate spanish syiraroom_0dea2040:
 
     # s "Of course, we're best friends."
-    s "Por supuesto, somos mejores amigas."
+    s "Pues claro, somos mejores amigas."
 
 # game/script.rpy:334
 translate spanish syiraroom_97336407:
 
     # "I don't know why I said that. We haven't even acknowledged that in years."
-    "No sé por qué dije eso. No hemos sido conscientes de ello en años."
+    "No sé por qué dije eso. Hace años que ni siquiera hablamos de eso."
 
 # game/script.rpy:335
 translate spanish syiraroom_54ace761:
@@ -322,19 +322,19 @@ translate spanish syiraroom_54ace761:
 translate spanish syiraroom_5c2914c6:
 
     # "After the call ends, I stare at the screen, letting it sink in."
-    "Apenas termina la llamada, miro a la pantalla intentando asimilar todo."
+    "Tras terminar la llamada, miro a la pantalla intentando asimilar todo."
 
 # game/script.rpy:340
 translate spanish syiraroom_76794b68:
 
     # "Something had happened between Huimin and her boyfriend.{w} Something bad.{w} My first thought was that he had hurt her. But {i}she{/i} said she had pushed {i}him.{/i}"
-    "Algo había sucedido entre Huimin y su novio. Algo malo. Mi primer pensamiento era que le había hecho daño, pero ella dijo que lo empujó."
+    "Algo había sucedido entre Huimin y su novio.{w} Algo malo.{w} Mi primer pensamiento era que le había hecho daño, pero ella dijo que lo empujó."
 
 # game/script.rpy:341
 translate spanish syiraroom_32de7276:
 
     # "A dark, malicious thought began to take root in my head.{w} Are things finally turning in my favour? Did the demon coiled in the trunk of that banana tree hear my wish after all?"
-    "Un pensamiento malicioso comenzó a arraigarse en mi cabeza. ¿Las cosas finalmente estaban saliendo a mi favor? ¿Acaso el demonio atrapado en el tronco de ese árbol de bananas escuchó mi deseo después de todo?"
+    "Un oscuro y malicioso pensamiento comenzó a arraigarse en mi cabeza.{w} ¿Es que por fin están saliendo las cosas a mi favor? ¿Acaso el demonio atrapado en el tronco de ese platanero escuchó mi deseo después de todo?"
 
 # game/script.rpy:342
 translate spanish syiraroom_0fefa077:
@@ -346,19 +346,19 @@ translate spanish syiraroom_0fefa077:
 translate spanish syiraroom_a6913b86:
 
     # "A few texts had come in from Huimin. The first one was a badly typed address, followed by another text that corrects a few typos while also making new ones. Finally, a third one comes in with everything laid out, corrected."
-    "Huimin había enviado algunos mensajes. El primero era una dirección escrita de forma pobre, seguido de otro texto que corregía y añadía algunas cosas. Finalmente, el tercer mensaje venía con todo bien escrito y corregido."
+    "Huimin había enviado algunos mensajes. El primero era una dirección escrita de forma pobre, seguido de otro texto que corregía algunas cosas y añadía otras. Finalmente, el tercer mensaje venía completamente corregido y completo."
 
 # game/script.rpy:344
 translate spanish syiraroom_82d05a88:
 
     # "{i}This one.{/i} She says. {i}Sorry.{/i}"
-    "En este. Ella dice. Lo siento."
+    "Y en este... Ella dice: Lo siento."
 
 # game/script.rpy:345
 translate spanish syiraroom_193c38de:
 
     # "I fire a quick text back to acknowledge it, then move to get changed to leave the house. At this hour, the buses and trains have long stopped running."
-    "Le envío un mensaje rápido y procedo a cambiarme para salir de casa. A estas alturas de la noche el transporte público ya no está funcionando."
+    "Le envío un mensaje rápido y procedo a cambiarme para salir de casa. A estas alturas de la noche el transporte público no es una opción."
 
 # game/script.rpy:346
 translate spanish syiraroom_af44512a:
@@ -376,13 +376,13 @@ translate spanish chalet_f0e04541:
 translate spanish chalet_9875865a:
 
     # "I've been there many years ago, as part of our secondary school class gathering. It was supposed to be a fun sleepover with everyone — which in theory was exciting, but became a huge mess in execution."
-    "Estuve ahí varios años atrás, como parte de una salida de nuestra escuela secundaria. Se suponía que sería una pijamada divertida entre todos - lo que en teoría es emocionante, pero se convirtió en todo un desastre en ejecución."
+    "Estuve allí hace unos años como parte de una excursión del instituto. Se suponía que sería una fiesta de pijamas divertida entre toda la clase, que en teoría lo fue, pero la idea se convirtió en desastre cuando se ejecutó."
 
 # game/script.rpy:355
 translate spanish chalet_68078e5a:
 
     # "Eventually, Huimin snuck over to my house and slept over there instead. I hated the class trip, but our own sleepover felt special. That was when we–"
-    "Eventualmente, Huimin se escabullió a mi casa y se quedó a dormir ahí. Odié el viaje de clase, pero nuestra propia pijamada se sintió especial. Eso fue cuando nosotras-"
+    "De vez en cuando, Huimin se colaba a mi casa y se quedaba a dormir. He odiado siempre pensar en aquella excursión, pero 'nuestra' fiesta de pijamas... se sintió especial. Eso fue cuando nosotras..."
 
 # game/script.rpy:359
 translate spanish chalet_cc8b7e66:
@@ -406,7 +406,7 @@ translate spanish chalet_3262ae74:
 translate spanish chalet_52c97b1f:
 
     # "The door unlocks and Huimin peers out. I'm taken aback by the blood soaked into her clothes."
-    "La puerta se abre y Huimin se asoma. Quedo en shock al ver la sangre atrapada en su ropa."
+    "La puerta se abre y Huimin se asoma. Quedo en shock al ver la sangre manchando su ropa."
 
 # game/script.rpy:370
 translate spanish chalet_ad3735a2:
@@ -418,25 +418,25 @@ translate spanish chalet_ad3735a2:
 translate spanish chalet_f4a15143:
 
     # h "Syira!"
-    h "¡Syra!"
+    h "¡Syira!"
 
 # game/script.rpy:373
 translate spanish chalet_3b45ac6c:
 
     # "She reaches for my arm, grabbing on tightly. Her nails dig into my flesh as she trembles violently."
-    "Ella agarra fuertemente mi brazo. Sus uñas entran en mi piel mientras se agita violentamente"
+    "Agarra fuertemente mi brazo. Sus uñas entran en mi piel mientras se agita violentamente"
 
 # game/script.rpy:374
 translate spanish chalet_9b63ae8e:
 
     # h "I can trust you right? Promise me you won't call the police. Promise me, please!"
-    h "¿Puedo confiar en ti verdad? Prométeme que no llamarás a la policía ¡¡Prométemelo por favor!!"
+    h "Puedo confiar en ti, ¿verdad? Prométeme que no llamarás a la policía... ¡¡Prométemelo, por favor te lo pido!!"
 
 # game/script.rpy:375
 translate spanish chalet_eff977c2:
 
     # "The words tumble out of her, a desperate and incoherent plea. My mind is whirring."
-    "Las palabras salen disparadas de su boca, es una mescolanza desesperada e inchoherente. Mi mente no hace más que temblar."
+    "Las palabras salen disparadas de su boca, como si sufriese una mezcla de desesperación e incoherencia. Mi mente no hace más que temblar."
 
 # game/script.rpy:377
 translate spanish chalet_b90d1fe8:
@@ -448,55 +448,55 @@ translate spanish chalet_b90d1fe8:
 translate spanish chalet_78486174:
 
     # h "Huh?"
-    h "¿Huh?"
+    h "¿Yo?"
 
 # game/script.rpy:379
 translate spanish chalet_160fa726:
 
     # "I reach out with my other hand, pushing back her unkempt hair to look at her face properly. It seems like there's blood everywhere, even splattered on her face. It makes me sick, thinking any of it could be hers."
-    "Uso mi mano para mover su cabello desaliñado para poder ver bien su rostro. Al parecer hay sangre por todos lados, incluso en su cara. Me enferma pensar que podría ser de ella."
+    "Uso mi mano para mover su cabello desaliñado y verle bien la cara. Al parecer, tiene tanta sangre... que ha llegado a su cara también. Me enferma pensar que podría ser de ella."
 
 # game/script.rpy:380
 translate spanish chalet_20b5ad5e:
 
     # s "The blood. Did you get hurt?"
-    s "La sangre ¿te hicieron daño?"
+    s "La sangre... ¿Te has hecho daño?"
 
 # game/script.rpy:381
 translate spanish chalet_6388aa73:
 
     # "Huimin finally realises what I'm asking about. She peers down at her shirt, seeming to take in her own appearance with fresh shock."
-    "Huimin finalmente se da cuenta de qué le estoy preguntando. Mira su propia camisa, parece que apenas cae en cuenta sobre su apariencia con una expresión de shock."
+    "Huimin por fin se da cuenta de lo que le estoy preguntando. Mira hacia su camisa y parece sorprenderse de su propio aspecto, como si lo viera por primera vez."
 
 # game/script.rpy:382
 translate spanish chalet_c7c3e96e:
 
     # h "I…it's not mine."
-    h "Yo... n-no es mía."
+    h "Yo... N-No es mía."
 
 # game/script.rpy:384
 translate spanish chalet_e043d770:
 
     # s "Okay."
-    s "Está bien."
+    s "Vale."
 
 # game/script.rpy:385
 translate spanish chalet_122f19c2:
 
     # "I breathe a sigh of relief."
-    "Respiro profundamente de alivio."
+    "Suelto un suspiro de alivio."
 
 # game/script.rpy:388
 translate spanish chalet_526429b5:
 
     # h "But Syira, I did something bad. Please don't call the police yet, okay? I didn't mean it! I really didn't mean it!"
-    h "Pero Syira, hice algo malo. Por favor no llames a la policía aún ¿vale? !No quise hacerlo! ¡De verdad no quise hacerlo!"
+    h "Pero Syira, hice algo malo. Por favor, no llames a la policía aún, ¿vale? ¡No quería hacerlo! ¡De verdad, no te estoy mintiendo!"
 
 # game/script.rpy:389
 translate spanish chalet_308c9b44:
 
     # h "You'll help me, right?"
-    h "Me vas a ayudar ¿cierto?"
+    h "Me vas a ayudar, ¿no?"
 
 # game/script.rpy:390
 translate spanish chalet_db037266:
@@ -682,7 +682,7 @@ translate spanish chalet_9aabb762:
 translate spanish chalet_eeeb2b30:
 
     # s "I think…we're done."
-    s "Creo que... acabamos."
+    s "Creo que... hemos acabado ya."
 
 # game/script.rpy:451
 translate spanish chalet_4dabbb13:
@@ -694,7 +694,7 @@ translate spanish chalet_4dabbb13:
 translate spanish chalet_39ca36e7:
 
     # s "You should take a shower."
-    s "Deberías tomar una ducha."
+    s "Deberías ducharte."
 
 # game/script.rpy:453
 translate spanish chalet_a3416b1b:
@@ -706,313 +706,313 @@ translate spanish chalet_a3416b1b:
 translate spanish chalet_b18967cf:
 
     # h "You too."
-    h "Tú también."
+    h "Y tú."
 
 # game/script.rpy:460
 translate spanish bathroom_a6536986:
 
     # "I wasn't sure what she meant, or what was going to happen. I wasn't sure, up till we were shuffling into the bathroom together, shedding our clothes and stepping into the shower stall where the hot water poured down both our backs."
-    ""
+    "No sabía muy bien a qué se refería, ni qué iba a pasar. No lo supe hasta que entramos juntas en el baño, desnudándonos y metiéndonos en la ducha, donde el agua caliente nos caía por la espalda."
 
 # game/script.rpy:461
 translate spanish bathroom_9e8e7fb7:
 
     # "{i}You can go first.{/i} The phrase lingers at the tip of my tongue, always on the verge of being voiced, before I swallow it down."
-    ""
+    "'Ve tú primera'. Esa frase se quedaba siempre en la punta de mi lengua, a punto de salir, pero al final siempre me la tragaba."
 
 # game/script.rpy:462
 translate spanish bathroom_740490c0:
 
     # "Something about the way Huimin had closed her fist over the lapel of my jacket.{w} The way she tugged on my arm to lead me into the bathroom.{w} The way she loosened my hair tie and pulled my ponytail apart."
-    ""
+    "Había algo en la forma en que Huimin apretó el puño sobre la solapa de mi chaqueta.{w} En cómo tiró de mi brazo para llevarme al baño.{w} En cómo me soltó la goma del pelo y deshizo mi coleta."
 
 # game/script.rpy:463
 translate spanish bathroom_e483fde7:
 
     # "I couldn't say it. Instead, I grasped at the straws presented to me, fingers threading through her fine black hair."
-    ""
+    "No podía decirlo. En lugar de eso, me aferré a lo que tenía delante, pasando los dedos por su suave melena negra."
 
 # game/script.rpy:467
 translate spanish bathroom_0c1872bd:
 
     # s "I'll help you wash your hair."
-    s ""
+    s "Te ayudaré a lavarlo."
 
 # game/script.rpy:468
 translate spanish bathroom_d73d52d8:
 
     # h "Okay."
-    h ""
+    h "Genial."
 
 # game/script.rpy:469
 translate spanish bathroom_d511d689:
 
     # "As the soap ran down her back, I noticed purplish bruises blooming on her back. They were stark against her fair skin, big patches that seemed deliberate rather than accidental."
-    ""
+    "Mientras el jabón resbalaba por su espalda, me di cuenta de que le estana saliendo moratones violáceos. Contrastaban con su piel clara, manchas grandes que parecían más intencionadas que accidentales."
 
 # game/script.rpy:470
 translate spanish bathroom_480867d8:
 
     # "Though, as Huimin shivered, I wondered if she would want to talk about it at all."
-    ""
+    "Aunque bueno... al ver cómo Huimin se estremecía, me pregunté si querría hablar de ello. De todo."
 
 # game/script.rpy:481
 translate spanish her_father_2a1e8875:
 
     # s "Huimin…are you okay? Your back is covered in bruises."
-    s ""
+    s "Oye, Huimin... ¿Estás bien? Tienes la espalda llena de moratones."
 
 # game/script.rpy:482
 translate spanish her_father_d14216c9:
 
     # h "Oh."
-    h ""
+    h "Ah."
 
 # game/script.rpy:483
 translate spanish her_father_e5bc8957:
 
     # "I try to be careful, stringing my words together cautiously so she doesn't close off."
-    ""
+    "Intento ir con cuidado, eligiendo bien las palabras para que no se sienta presionada."
 
 # game/script.rpy:484
 translate spanish her_father_1dbd5b6b:
 
     # s "Is it recent?"
-    s ""
+    s "¿Son de hace poco?"
 
 # game/script.rpy:485
 translate spanish her_father_c80d7637:
 
     # h "I don't know. I can't really keep track."
-    h ""
+    h "No lo sé. Ni me acuerdo ya de eso."
 
 # game/script.rpy:486
 translate spanish her_father_514c5c50:
 
     # h "My dad gets angry all the time. It was probably something stupid like letting my wet hair drip on the floor or forgetting to arrange the plates a certain way. Who knows."
-    h ""
+    h "Mi padre se enfada por cualquier cosa. Probablemente fue por algo tonto, como dejar que el pelo mojado gotease en el suelo o no colocar bien los platos. Yo qué sé."
 
 # game/script.rpy:487
 translate spanish her_father_d9b120c6:
 
     # "I bite my lip. Huimin has a violent father."
-    ""
+    "Me muerdo el labio. El padre de Huimin es un hombre muy violento."
 
 # game/script.rpy:488
 translate spanish her_father_a74c23ec:
 
     # "As the eldest daughter in the family, she’s been raised to shoulder the responsibilities of taking care of both the household chores and her younger brother. She's the most hardworking and meticulous person I know, yet her father continues to find fault in her."
-    ""
+    "Como hija mayor, la criaron para hacerse cargo de las tareas de casa y cuidar a su hermano pequeño. Es la persona más trabajadora y perfeccionista que conozco, y aun así su padre siempre encuentra algo que reprocharle."
 
 # game/script.rpy:489
 translate spanish her_father_8c87ff77:
 
     # s "I'm sorry."
-    s ""
+    s "Perdón."
 
 # game/script.rpy:490
 translate spanish her_father_c7c0e1b3:
 
     # h "…It's not your fault. I'm just unlucky."
-    h ""
+    h "No es culpa tuya... Simplemente tengo mala suerte."
 
 # game/script.rpy:491
 translate spanish her_father_a607a421:
 
     # h "Sometimes I wonder if I did something to deserve this. If I'm a bad daughter after all."
-    h ""
+    h "A veces me pregunto si hice algo para merecer esto. Si en el fondo... soy una mala hija, o algo."
 
 # game/script.rpy:492
 translate spanish her_father_0b569b1d:
 
     # s "Huimin, you're not…"
-    s ""
+    s "Huimin, tú no..."
 
 # game/script.rpy:493
 translate spanish her_father_1cdba4a2:
 
     # h "Then what am I supposed to do for my family to be happy with me? It feels like there's an imaginary bar I'm trying to reach, but I don't know where or what it is."
-    h ""
+    h "Entonces, ¿qué se supone que tengo que hacer para que mi familia esté contenta conmigo? Es como si hubiese una meta invisible que intento alcanzar, pero no sé ni dónde está ni en qué consiste."
 
 # game/script.rpy:494
 translate spanish her_father_9240e086:
 
     # h "It's just incomprehensible to me."
-    h ""
+    h "Es algo que no puedo entender."
 
 # game/script.rpy:495
 translate spanish her_father_61ece343:
 
     # h "And now David…I don't even know how it happened. It was as if something took over me and I just…{w} Oh god, am I just like my dad? Just as violent and senseless–"
-    h ""
+    h "Y ahora lo de David... que ni siquiera sé cómo ocurrió. Fue como si algo se apoderara de mí y simplemente...{w} Dios, ¿y si soy igual que mi padre? ¿Y si soy igual de violenta y cabezota...? "
 
 # game/script.rpy:496
 translate spanish her_father_ff003e59:
 
     # s "That's not true, Huimin. It was an accident. I know it is. You didn't want to hurt him."
-    s ""
+    s "Eso no es verdad, Huimin. Fue un accidente. Lo sé. Sé que no querías hacerle daño."
 
 # game/script.rpy:497
 translate spanish her_father_c6247b7f:
 
     # h "…Yea. I won't hurt David on purpose, right?"
-    h ""
+    h "Sí, ya... No haría daño a David a propósito, ¿no?"
 
 # game/script.rpy:498
 translate spanish her_father_8bcf1224:
 
     # h "After all, I love him. I…"
-    h ""
+    h "Después de todo, le quiero. Yo..."
 
 # game/script.rpy:499
 translate spanish her_father_c607f77f:
 
     # h "I wanted to marry him."
-    h ""
+    h "quería casarme con él."
 
 # game/script.rpy:500
 translate spanish her_father_a0d24bb3:
 
     # s "Oh."
-    s ""
+    s "Ah..."
 
 # game/script.rpy:501
 translate spanish her_father_8a15168a:
 
     # "My heart sinks.{w} I've known this, but still my gut wrenches with disappointment."
-    ""
+    "Se me encoge el corazón.{w} Ya lo sabía, pero de todas maneras siento un nudo de decepción en el estómago."
 
 # game/script.rpy:502
 translate spanish her_father_7490f52a:
 
     # h "If I could marry him, we could get a house and I could move out."
-    h ""
+    h "Si pudiera casarme con él, podríamos buscar una casa y mudarnos..."
 
 # game/script.rpy:503
 translate spanish her_father_56cee690:
 
     # h "It felt like the only way I could escape. The only way my family would let me go."
-    h ""
+    h "Era la única vía de escape que veía. La única forma en que mi familia me dejaría marchar."
 
 # game/script.rpy:504
 translate spanish her_father_175adb0c:
 
     # h "But now it's over. My dream is over, Syira."
-    h ""
+    h "Pero ahora se acabó, Syira. Mi sueño se ha roto."
 
 # game/script.rpy:510
 translate spanish primary_four_daab3e68:
 
     # s "Do you remember when we were in Primary four together?"
-    s ""
+    s "¿Te acuerdas de cuando íbamos juntas en cuarto de primaria?"
 
 # game/script.rpy:511
 translate spanish primary_four_ef78d487:
 
     # s "I got bullied and you had to wash my hair for me, just like this."
-    s ""
+    s "Me hacían bullying y tú tenías que lavarme el pelo, igual que ahora."
 
 # game/script.rpy:512
 translate spanish primary_four_a439b0e8:
 
     # h "Oh…yea. You were much more timid then."
-    h ""
+    h "Es cierto..., aunque por aquel entonces eras mucho más tímida."
 
 # game/script.rpy:513
 translate spanish primary_four_c1d31f7e:
 
     # s "And you were unhinged."
-    s ""
+    s "Y tú una salvaje."
 
 # game/script.rpy:514
 translate spanish primary_four_817de3de:
 
     # "Huimin lets out a soft, humourless laugh."
-    ""
+    "Huimin deja escapar una risa suave, sin alegría alguna."
 
 # game/script.rpy:515
 translate spanish primary_four_389cd465:
 
     # h "Yea. Things were so different back then."
-    h ""
+    h "Por aquel entonces todo era distinto, la verdad."
 
 # game/script.rpy:516
 translate spanish primary_four_01af4a35:
 
     # s "I remember I got called to read aloud in class. Back then, I had a hard time projecting my voice. Even something simple like reading a passage aloud in class was a nightmare."
-    s ""
+    s "Recuerdo cuando me hicieron leer en voz alta en clase. Me costaba un montón alzar la voz. Incluso algo tan simple como leer un texto en clase... se convertía en una pesadilla para mí."
 
 # game/script.rpy:517
 translate spanish primary_four_12651435:
 
     # h "The teacher was such a jerk for picking on you for that."
-    h ""
+    h "Qué borde fue la profe por burlarse de ti solamente por eso."
 
 # game/script.rpy:518
 translate spanish primary_four_ef2ab7fa:
 
     # s "Yea, she made me repeat it again and again because I wasn’t loud enough, until the class got frustrated with me."
-    s ""
+    s "Sí, y me hizo repetirlo una y otra vez porque no hablaba lo bastante alto, hasta que la clase acabó cansándose de mí."
 
 # game/script.rpy:519
 translate spanish primary_four_c0b6d36f:
 
     # h "It was a bunch of boys who picked on you after, right?"
-    h ""
+    h "Y después de eso... se metieron contigo unos chicos, ¿no?"
 
 # game/script.rpy:520
 translate spanish primary_four_0e0fd1c4:
 
     # s "They were pissed that we were late to recess break."
-    s ""
+    s "Estaban enfadados porque se usó tiempo del recreo para que terminase de leer."
 
 # game/script.rpy:521
 translate spanish primary_four_58ee9e0d:
 
     # "The boys cornered me after class ended, confronting me as if I had done the whole thing on purpose. Caught off guard, I didn’t know how to respond as my cheeks burned in mortification."
-    ""
+    "Me acorralaron al acabar la clase, como si lo hubiese hecho a propósito. Me pillaron desprevenida y no supe ni qué decir mientras sentía las mejillas arder de vergüenza."
 
 # game/script.rpy:522
 translate spanish primary_four_d9eadb00:
 
     # "It all happened so fast. Suddenly, someone was grabbing my hair and another was uncapping a bottle of glue and pouring it onto my braids."
-    ""
+    "Todo pasó muy deprisa. De repente, uno me cogió del pelo y otro destapó un bote de pegamento y lo roció sobre mis trenzas."
 
 # game/script.rpy:523
 translate spanish primary_four_9b1ad151:
 
     # s "You appeared right then and saved me."
-    s ""
+    s "Y apareciste de repente para salvarme."
 
 # game/script.rpy:524
 translate spanish primary_four_35666e65:
 
     # h "More like just cursed them out until they ran off."
-    h ""
+    h "Bueno, más bien grité y grité hasta que salieron corriendo."
 
 # game/script.rpy:525
 translate spanish primary_four_5f138d59:
 
     # s "Hah, yea. What did you use? Dialect?"
-    s ""
+    s "Ja, ja, ja. Sí, usaste... Qué era, ¿el dialecto?"
 
 # game/script.rpy:526
 translate spanish primary_four_91591168:
 
     # h "Yeap. Learnt it from my dad."
-    h ""
+    h "Síp, lo aprendí de mi padre."
 
 # game/script.rpy:527
 translate spanish primary_four_38175899:
 
     # "I was grateful to Huimin, clutching onto her hand like a lifeline as she led me to the washroom to clean up. Shame had consumed me and I apologised profusely, but she deflected all of it."
-    ""
+    "Le estaba tan agradecida a Huimin... me agarré a su mano como si fuera mi única salvación mientras me llevaba al baño a limpiarme. Me sentía tan avergonzada que no paraba de disculparme, pero ella no quiso oír ni una sola."
 
 # game/script.rpy:528
 translate spanish primary_four_f1089cb9:
 
     # "She forced me to accept her care instead."
-    ""
+    "Me obligó a aceptar sus cuidados en lugar de mis disculpas."
 
 # game/script.rpy:529
 translate spanish primary_four_b919afb7:
