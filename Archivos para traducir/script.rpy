@@ -1714,355 +1714,355 @@ translate spanish dream_fight_aa07d602:
 translate spanish dream_fight_7866b884:
 
     # "He grabs Huimin again, jerking her head up to look at him. Betrayal burns in her eyes. She knows this violence too well."
-    ""
+    "La agarra de nuevo, obligándola a levantar la cabeza para mirarlo. La traición arde en sus ojos. Ella conoce demasiado bien esta violencia."
 
 # game/script.rpy:748
 translate spanish dream_fight_b4bf9edb:
 
     # "Anger boils in my blood. How dare he do this to her?"
-    ""
+    "La rabia me hierve por dentro. ¿Cómo se atreve a hacerle esto?"
 
 # game/script.rpy:749
 translate spanish dream_fight_8c84f047:
 
     # "I want to reach into the memory, break his arms and bruise him. Even if all I have are my bare teeth and fingernails, I will tear up his skin and make him bleed."
-    ""
+    "Quisiera meterme en ese recuerdo, romperle los brazos y dejarlo lleno de moretones. Aunque solo tuviera mis propios dientes y uñas, le arrancaría la piel y lo haría sangrar."
 
 # game/script.rpy:751
 translate spanish dream_fight_2e12053c:
 
     # "My body grows hot, like a fire is rising in my gut. Darkness spots over my vision and something tugs at my limbs."
-    ""
+    "Mi cuerpo se calienta, como si un fuego me ardiera por dentro. Manchas oscuras nublan mi vista y algo tira de mis extremidades."
 
 # game/script.rpy:752
 translate spanish dream_fight_65925fca:
 
     # "Her.{w} The spirit in the banana tree.{w} The demon I told my wish to."
-    ""
+    "Ella.{w} El espíritu en el platanero.{w} El demonio al que le conté mi deseo."
 
 # game/script.rpy:753
 translate spanish dream_fight_55e94ff3:
 
     # "Then, I am nails digging into his skin, scratches and blood trailing where I dream of revenge.{w} This is Huimin’s body, but she is a vessel for my wish. And I wish to hurt him, tear him up, ruin him."
-    ""
+    "Entonces, soy uñas clavándose en su piel, arañazos y sangre marcando el camino donde sueño con venganza.{w} Este es el cuerpo de Huimin, pero ella es el recipiente de mi deseo. Y yo deseo herirlo, destrozarlo, arruinarlo."
 
 # game/script.rpy:754
 translate spanish dream_fight_70ae5071:
 
     # "David fights back, bruises and blood blooming where we crash into each other. Frustration bubbles up in my chest. It’s unfair how strong he is, it’s unfair how easily he can get his way, it’s unfair how he gets to be — him."
-    ""
+    "David se defiende, los moretones y la sangre brotan donde chocamos el uno contra el otro. La frustración me hierve en el pecho. Es injusto lo fuerte que es, es injusto lo fácil que le resulta salirse con la suya, es injusto que él pueda ser — él."
 
 # game/script.rpy:755
 translate spanish dream_fight_57ee9b1a:
 
     # "I stare at him, watching the blood trail down his face. It must mirror what he’d done to her."
-    ""
+    "Lo miro fijamente, viendo cómo la sangre le resbala por la cara. Debe ser el reflejo de lo que él le hizo a ella."
 
 # game/script.rpy:756
 translate spanish dream_fight_2473e81a:
 
     # "{i}I want what you have.{/i} I start to say. {i}I don’t care how, anymore.{/i}"
-    ""
+    "{i}Quiero lo que tú tienes.{/i} Empiezo a decir. {i}Ya no me importa cómo lo consiga.{/i}"
 
 # game/script.rpy:757
 translate spanish dream_fight_aad32a5d:
 
     # "I don’t know if he hears me. The words are in my head, screaming, but my mouth doesn’t move to form them."
-    ""
+    "No sé si él me escucha. Las palabras están en mi cabeza, gritando, pero mi boca no se mueve para decirlas."
 
 # game/script.rpy:759
 translate spanish dream_fight_386ae3e6:
 
     # "Then, I hear Her, whispering."
-    ""
+    "Entonces, la oigo a Ella, susurrando."
 
 # game/script.rpy:760
 translate spanish dream_fight_34cbf98f:
 
     # "{i}Take it. Kill him so you can take it.{/i}"
-    ""
+    "{i}Tómalo. Mátalo para que puedas quedarte con ello.{/i}"
 
 # game/script.rpy:761
 translate spanish dream_fight_47a08556:
 
     # "A new strength seeps into my arms, something so intense that it almost sends me reeling off balance. I step forward and shove him with all of it."
-    ""
+    "Una nueva fuerza se cuela en mis brazos, tan intensa que casi me hace perder el equilibrio. Doy un paso al frente y lo empujo con todo lo que tengo."
 
 # game/script.rpy:766
 translate spanish dream_fight_1c453b61:
 
     # "David crashes into the table. The top shatters, glass scattering over the floor. His body slumps into the side, blood pooling on the floor, a deep deep red."
-    ""
+    "David se estrella contra la mesa. El tablero se hace añicos, el vidrio se esparce por el suelo. Su cuerpo cae de lado, la sangre se acumula en el piso, de un rojo intensamente profundo."
 
 # game/script.rpy:768
 translate spanish dream_fight_7fd213fb:
 
     # "This is how it happened."
-    ""
+    "Así fue como sucedió."
 
 # game/script.rpy:777
 translate spanish dream_sleepover_288976c2:
 
     # "I see my bedroom in its familiar layout. Things have been shuffled around, nostalgic trinkets scattered around the room again."
-    ""
+    "Veo mi habitación con su disposición de siempre. Algunas cosas se han movido de lugar, y los objetos nostálgicos vuelven a estar esparcidos por el cuarto."
 
 # game/script.rpy:780
 translate spanish dream_sleepover_80394529:
 
     # "Huimin and I are teenagers, huddled on my bed refusing to go to sleep even though it was well past midnight. We had ditched the class gathering earlier in the day, cycling to my place nearby to hang out instead."
-    ""
+    "Huimin y yo somos adolescentes, acurrucadas en mi cama negándonos a dormir aunque ya era pasada la medianoche. Ese día nos habíamos escapado de la reunión de la clase y fuimos en bici a mi casa, solo para pasar el rato juntas."
 
 # game/script.rpy:781
 translate spanish dream_sleepover_0c98137a:
 
     # h "What do you think they're doing now?"
-    h ""
+    h "¿Qué crees que estarán haciendo ahora?"
 
 # game/script.rpy:782
 translate spanish dream_sleepover_6cbac6b2:
 
     # s "Probably playing truth or dare or some stupid games."
-    s ""
+    s "Probablemente jugando verdad o reto, o alguna tontería así."
 
 # game/script.rpy:784
 translate spanish dream_sleepover_62841dde:
 
     # "Huimin lets out a huff."
-    ""
+    "Huimin resopla."
 
 # game/script.rpy:785
 translate spanish dream_sleepover_8ec35203:
 
     # h "Yea, they'll probably try to pair me up with Weijie again if I was there."
-    h ""
+    h "Sí, seguro que intentarían emparejarme con Weijie otra vez si estuviera allí."
 
 # game/script.rpy:786
 translate spanish dream_sleepover_a53a175f:
 
     # "My throat tightens. This was around the time in my life when I started to wonder if I liked girls."
-    ""
+    "Se me cierra la garganta. Fue por esa época cuando empecé a preguntarme si me gustaban las chicas."
 
 # game/script.rpy:787
 translate spanish dream_sleepover_e1b3535f:
 
     # "It was a secret I was desperate to hide. The thought of anyone finding out, especially my parents, left me deeply mortified."
-    ""
+    "Era un secreto que moría por ocultar. La idea de que alguien lo descubriera, especialmente mis padres, me dejaba profundamente mortificada."
 
 # game/script.rpy:788
 translate spanish dream_sleepover_e633ded5:
 
     # "Still, despite my attempts to quell it, jealousy stirs in my gut."
-    ""
+    "Aun así, por más que intento reprimirla, la envidia se agita en mi interior."
 
 # game/script.rpy:789
 translate spanish dream_sleepover_49ec96a9:
 
     # s "Well, do you like him?"
-    s ""
+    s "Bueno, ¿te gusta?"
 
 # game/script.rpy:791
 translate spanish dream_sleepover_7f5b69e7:
 
     # "Huimin makes a face and I relax."
-    ""
+    "Huimin hace una mueca y yo me relajo."
 
 # game/script.rpy:792
 translate spanish dream_sleepover_ae4d180e:
 
     # h "No way. He thinks he's so good-looking but he's really just average. I can't stand him, actually."
-    h ""
+    h "Para nada. Él se cree guapísimo, pero en realidad es del montón. En serio, no lo soporto."
 
 # game/script.rpy:793
 translate spanish dream_sleepover_3d34ac42:
 
     # s "Hahaha! I wish I could see his reaction if you say that to his face."
-    s ""
+    s "¡Jajaja! Me encantaría ver su cara si le dices eso en la cara."
 
 # game/script.rpy:795
 translate spanish dream_sleepover_ff0f9931:
 
     # "Huimin grins lazily, nuzzling her face into the pillow."
-    ""
+    "Huimin sonríe perezosamente y hunde la cara en la almohada."
 
 # game/script.rpy:796
 translate spanish dream_sleepover_59096e91:
 
     # h "Maybe I should surprise him for graduation. Give that inflated ego a good kick."
-    h ""
+    h "Quizá debería sorprenderlo en la graduación. Darle una buena patada a ese ego inflado."
 
 # game/script.rpy:797
 translate spanish dream_sleepover_0b6f41fb:
 
     # "We giggle some more. I feel dizzy with joy, gloriously relieved that we were on the same side. That Huimin doesn't like him, after all."
-    ""
+    "Volvemos a reírnos. Siento un mareo de alegría, aliviada y feliz de saber que estábamos del mismo lado. Que Huimin, al final, no está interesada en él."
 
 # game/script.rpy:798
 translate spanish dream_sleepover_7435813d:
 
     # h "I don’t really want to sleep yet, Syira. Should we play a game too?"
-    h ""
+    h "La verdad no tengo ganas de dormir todavía, Syira. ¿Jugamos a algo también?"
 
 # game/script.rpy:799
 translate spanish dream_sleepover_e0dc1a3a:
 
     # s "What game?"
-    s ""
+    s "¿A qué quieres jugar?"
 
 # game/script.rpy:800
 translate spanish dream_sleepover_b8289aa5:
 
     # "I blink, shuffling closer."
-    ""
+    "Parpadeo y me acerco un poco más."
 
 # game/script.rpy:801
 translate spanish dream_sleepover_7334919a:
 
     # h "Truth or dare."
-    h ""
+    h "Verdad o reto."
 
 # game/script.rpy:802
 translate spanish dream_sleepover_327a50ea:
 
     # s "Sure."
-    s ""
+    s "Claro."
 
 # game/script.rpy:803
 translate spanish dream_sleepover_fe28366b:
 
     # h "Okay, truth or dare?"
-    h ""
+    h "Bueno, ¿verdad o reto?"
 
 # game/script.rpy:804
 translate spanish dream_sleepover_04dc1a60:
 
     # s "Um… truth."
-    s ""
+    s "Eh... verdad."
 
 # game/script.rpy:805
 translate spanish dream_sleepover_a4324f16:
 
     # h "Have you ever had a crush on someone?"
-    h ""
+    h "¿Alguna vez te ha gustado alguien?"
 
 # game/script.rpy:807
 translate spanish dream_sleepover_7e477423:
 
     # "{i}Oh.{/i} I hadn’t expected her to ask something like that — so cliched and embarrassing, yet drawn so confidently from her lips."
-    ""
+    "{i}Oh.{/i} No esperaba que me preguntara algo así — tan cliché y vergonzoso, pero que sale de sus labios con tanta seguridad."
 
 # game/script.rpy:808
 translate spanish dream_sleepover_e257f3bf:
 
     # "I suppose she won’t know who, even if I answered honestly."
-    ""
+    "Supongo que no sabría quién es, aunque respondiera con sinceridad."
 
 # game/script.rpy:809
 translate spanish dream_sleepover_1f74a572:
 
     # s "…Yes."
-    s ""
+    s "...Sí."
 
 # game/script.rpy:810
 translate spanish dream_sleepover_46ea768a:
 
     # "Huimin smiles."
-    ""
+    "Huimin sonríe."
 
 # game/script.rpy:811
 translate spanish dream_sleepover_1815e462:
 
     # h "Now you ask me."
-    h ""
+    h "Ahora pregúntame tú."
 
 # game/script.rpy:813
 translate spanish dream_sleepover_0bed073c:
 
     # s "Truth or dare?"
-    s ""
+    s "¿Verdad o reto?"
 
 # game/script.rpy:814
 translate spanish dream_sleepover_7005c158:
 
     # h "Hmm… truth."
-    h ""
+    h "Mmm... verdad."
 
 # game/script.rpy:815
 translate spanish dream_sleepover_d7fdcbe0:
 
     # "I am a petty, immature teenager. Her question had flustered me, so I wanted to turn the tables back on her."
-    ""
+    "Soy una adolescente inmadura y un poco mezquina. Su pregunta me descolocó, así que quise devolverle la jugada."
 
 # game/script.rpy:816
 translate spanish dream_sleepover_8a72116a:
 
     # s "Have you ever kissed someone?"
-    s ""
+    s "¿Alguna vez has besado a alguien?"
 
 # game/script.rpy:817
 translate spanish dream_sleepover_c8658691:
 
     # "There is the slightest hint of a blush on Huimin’s cheeks, but she answers without wavering."
-    ""
+    "Hay un leve rubor en las mejillas de Huimin, pero responde sin titubear."
 
 # game/script.rpy:818
 translate spanish dream_sleepover_d3f705da:
 
     # h "Yes. At one of the camps."
-    h ""
+    h "Sí. En uno de los campamentos."
 
 # game/script.rpy:819
 translate spanish dream_sleepover_b200ce08:
 
     # "My breath stills. {w}I hate that I asked even though I knew the answer would feel like a truck running me over."
-    ""
+    "Se me corta la respiración. {w}Odio haber hecho la pregunta, aunque ya sabía que la respuesta me iba a dejar como si me hubiera atropellado un camión."
 
 # game/script.rpy:820
 translate spanish dream_sleepover_8cab3702:
 
     # "My stupid, sensitive heart {i}hurt{/i} and I want to cry and end the game."
-    ""
+    "Mi estúpido y sensible corazón {i}duele{/i} y solo quiero llorar y terminar el juego."
 
 # game/script.rpy:822
 translate spanish dream_sleepover_f8eb4085:
 
     # h "Now, it’s your turn again. Truth or dare?"
-    h ""
+    h "Ahora te toca a ti otra vez. ¿Verdad o reto?"
 
 # game/script.rpy:823
 translate spanish dream_sleepover_1823c74c:
 
     # "I stare at her, blinking slowly. Suddenly, I’m tired of honesty. My heart already feels raw, bleeding on my sleeve from just a few questions."
-    ""
+    "La miro, parpadeando despacio. De repente, estoy cansada de tanta honestidad. Siento el corazón en carne viva, desangrándose en mi pecho solo por unas pocas preguntas."
 
 # game/script.rpy:824
 translate spanish dream_sleepover_262154a6:
 
     # s "Dare, whatever."
-    s ""
+    s "Reto, lo que sea."
 
 # game/script.rpy:825
 translate spanish dream_sleepover_640e7697:
 
     # h "I dare you to kiss me."
-    h ""
+    h "Te reto a que me beses."
 
 # game/script.rpy:827
 translate spanish dream_sleepover_6c0225d9:
 
     # "My eyes go wide."
-    ""
+    "Abro mucho los ojos."
 
 # game/script.rpy:828
 translate spanish dream_sleepover_452f7b80:
 
     # s "W-what?"
-    s ""
+    s "¿Q-qué?"
 
 # game/script.rpy:829
 translate spanish dream_sleepover_6ba7f74b:
 
     # h "You haven’t kissed anyone before, right?"
-    h ""
+    h "Nunca has besado a nadie, ¿verdad?"
 
 # game/script.rpy:830
 translate spanish dream_sleepover_ecda8021:
