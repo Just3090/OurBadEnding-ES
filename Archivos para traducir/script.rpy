@@ -2068,523 +2068,523 @@ translate spanish dream_sleepover_6ba7f74b:
 translate spanish dream_sleepover_ecda8021:
 
     # s "I– no, I haven’t, but…"
-    s ""
+    s "Y-yo... no, nunca he besado a nadie, pero..."
 
 # game/script.rpy:831
 translate spanish dream_sleepover_ed744ae1:
 
     # h "It’s really nothing much, Syira."
-    h ""
+    h "De verdad, no es gran cosa, Syira."
 
 # game/script.rpy:832
 translate spanish dream_sleepover_0d000a69:
 
     # "No. {i}No.{/i}{w} It really isn’t ‘nothing much’.{w} I feel like I am going to die.{w} Here I am, with an embarrassing crush on a girl who is going to kiss me but she thinks it’s ‘nothing much’."
-    ""
+    "No. {i}No.{/i}{w} No es 'nada'.{w} Siento que me voy a morir.{w} Aquí estoy, con un crush vergonzoso por una chica que va a besarme y para ella no significa nada."
 
 # game/script.rpy:834
 translate spanish dream_sleepover_e9c5b713:
 
     # "Huimin inches closer. I close my eyes, nerves keeping me frozen in place."
-    ""
+    "Huimin se acerca poco a poco. Cierro los ojos, los nervios me dejan completamente inmóvil."
 
 # game/script.rpy:838
 translate spanish dream_sleepover_bb3e04c9:
 
     # "She presses her lips to mine. A small, chaste, barely there kiss."
-    ""
+    "Presiona sus labios contra los míos. Un beso pequeño, casto, casi inexistente."
 
 # game/script.rpy:839
 translate spanish dream_sleepover_466c9892:
 
     # "I had forgotten how it felt, but I’m so immersed in this memory that it comes back to me. It’s almost cruel how vivid it is."
-    ""
+    "Había olvidado cómo se sentía, pero estoy tan sumergida en este recuerdo que todo vuelve a mí. Es casi cruel lo vívido que resulta."
 
 # game/script.rpy:842
 translate spanish dream_sleepover_f6dcbec2:
 
     # "In the corner of my vision, I see a shape behind the curtain. That’s when I knew that this memory returning like this is Her —{w} the spirit in the banana tree, the demon I made my wish to.{w} This is her cruel way of dangling what I want so badly before my eyes."
-    ""
+    "Por el rabillo del ojo, veo una figura detrás de la cortina. Ahí es cuando entiendo que este recuerdo que vuelve así es Ella —{w} el espíritu del platanero, el demonio al que le pedí mi deseo.{w} Esta es su forma cruel de poner frente a mí, tan cerca, lo que más deseo."
 
 # game/script.rpy:844
 translate spanish dream_sleepover_85266d41:
 
     # "Because despite Huimin kissing me that night, it was nothing more than a meaningless act. Years later, after I grew to accept my sexuality and plucked up the courage to tell her how I felt—"
-    ""
+    "Porque, aunque Huimin me besó esa noche, no fue más que un acto sin sentido. Años después, cuando por fin acepté mi sexualidad y reuní el valor para confesarle lo que sentía—"
 
 # game/script.rpy:845
 translate spanish dream_sleepover_a37162ed:
 
     # "She rejected me."
-    ""
+    "Me rechazó."
 
 # game/script.rpy:846
 translate spanish dream_sleepover_94250e0d:
 
     # h "I could try to date you, but I just think that in the end, I'll probably end up with a guy. So I don't want to waste your time."
-    h ""
+    h "Podría intentar salir contigo, pero creo que al final acabaría con un chico. No quiero hacerte perder el tiempo."
 
 # game/script.rpy:847
 translate spanish dream_sleepover_4a8ecdd5:
 
     # "She won't even give me a chance. She didn't think we had an ending together."
-    ""
+    "Ni siquiera me dio una oportunidad. Nunca pensó que podríamos tener un final juntas."
 
 # game/script.rpy:848
 translate spanish dream_sleepover_e518e678:
 
     # "I get it. I really do. But as much as I've resigned to it — having this memory dragged up from the depths and made afresh once more, I just want her all over again."
-    ""
+    "Lo entiendo. De verdad que sí. Pero por más que haya intentado resignarme... tener este recuerdo arrastrado desde el fondo y revivido una vez más, solo hace que la desee otra vez."
 
 # game/script.rpy:854
 translate spanish after_dream_02d6ff7f:
 
     # "I see the bedroom again — I’m back at the chalet."
-    ""
+    "Vuelvo a ver la habitación... estoy de regreso en el chalet."
 
 # game/script.rpy:855
 translate spanish after_dream_3c42b43c:
 
     # "My body still feels prickly with phantom sensations. My chest feels tight with emotions, the weight of it so heavy that I feel nauseated, ready to bend over and throw up on the floor."
-    ""
+    "Mi cuerpo sigue erizado por sensaciones fantasma. Siento el pecho tan apretado por las emociones, el peso es tan grande que me dan náuseas, como si fuera a doblarme y vomitar en el suelo."
 
 # game/script.rpy:867
 translate spanish ending_envy_7a01c2e1:
 
     # "Huimin is lying on the bed, her body turned away from me. Her shoulders are shaking as she presses her face into the pillow and cries."
-    ""
+    "Huimin está tumbada en la cama, dándome la espalda. Sus hombros tiemblan mientras hunde la cara en la almohada y llora."
 
 # game/script.rpy:868
 translate spanish ending_envy_185d98f5:
 
     # h "I’m sorry…David, I’m so sorry."
-    h ""
+    h "Lo siento... David, de verdad lo siento."
 
 # game/script.rpy:869
 translate spanish ending_envy_43edbcb4:
 
     # s "Huimin."
-    s ""
+    s "Huimin."
 
 # game/script.rpy:870
 translate spanish ending_envy_eaab81b9:
 
     # "I put my hand on her shoulder. Do I want to comfort her? Or do I just want her to stop saying his name?"
-    ""
+    "Le pongo la mano en el hombro. ¿Quiero consolarla? ¿O solo quiero que deje de decir su nombre?"
 
 # game/script.rpy:871
 translate spanish ending_envy_1d2546b9:
 
     # h "I don’t know how it happened…"
-    h ""
+    h "No sé cómo pasó..."
 
 # game/script.rpy:872
 translate spanish ending_envy_315cd0c4:
 
     # s "Stop, it’s already—"
-    s ""
+    s "Ya basta, ya fue suficiente..."
 
 # game/script.rpy:873
 translate spanish ending_envy_a714c88c:
 
     # "It’s already over. He’s already dead. I wished for it and I don’t regret it, so stop dwelling on it and look at me."
-    ""
+    "Ya se acabó. Él ya está muerto. Yo lo deseé y no me arrepiento, así que deja de pensar en eso y mírame."
 
 # game/script.rpy:874
 translate spanish ending_envy_c495aa13:
 
     # "Look at me, please."
-    ""
+    "Mírame, por favor."
 
 # game/script.rpy:875
 translate spanish ending_envy_64ca21c4:
 
     # h "Come back, I still…"
-    h ""
+    h "Vuelve, todavía yo..."
 
 # game/script.rpy:876
 translate spanish ending_envy_267a0bf0:
 
     # "I pull away, my stomach dropping like a stone in the ocean. This must be the cruelest joke of all. I’m sure David is laughing in his grave. All this, and I’m still not enough."
-    ""
+    "Me aparto, el estómago se me hunde como una piedra en el océano. Esto debe ser la broma más cruel de todas. Seguro que David se está riendo en su tumba. Todo esto, y aun así no soy suficiente."
 
 # game/script.rpy:877
 translate spanish ending_envy_3b9df584:
 
     # "Deep in my gut, I feel a gnawing pain."
-    ""
+    "Siento un dolor punzante en lo más profundo de mis entrañas."
 
 # game/script.rpy:878
 translate spanish ending_envy_523b43cf:
 
     # "It’s familiar — something I’ve known for years."
-    ""
+    "Es familiar, algo que llevo sintiendo desde hace años."
 
 # game/script.rpy:879
 translate spanish ending_envy_391f3b5d:
 
     # "It’s the feeling when I see his arm around her waist in their photos, when she addresses him and touches his cheek, when Huimin picks him over and over and over again."
-    ""
+    "Es ese sentimiento cuando veo su brazo rodeando su cintura en las fotos, cuando ella le habla y le acaricia la mejilla, cuando Huimin lo elige a él una y otra y otra vez."
 
 # game/script.rpy:880
 translate spanish ending_envy_94e4e429:
 
     # "{i}I want her to be mine. I want her to be mine.{/i}"
-    ""
+    "{i}Quiero que sea mía. Quiero que sea mía.{/i}"
 
 # game/script.rpy:881
 translate spanish ending_envy_c6aa6c6c:
 
     # "I had dreamt of a slow but sweet romance."
-    ""
+    "Soñé con un romance lento pero dulce."
 
 # game/script.rpy:882
 translate spanish ending_envy_6e940983:
 
     # "I had dreamt of Huimin, the fearless girl who didn’t care what anyone else thought, leading me into it. And me, the introverted girl who struggled to even express a single opinion of my own, gladly following along."
-    ""
+    "Soñé con Huimin, la chica valiente que no le importaba lo que pensaran los demás, guiándome en todo esto. Y yo, la chica introvertida que apenas podía expresar una opinión propia, siguiéndola feliz."
 
 # game/script.rpy:883
 translate spanish ending_envy_1cd4dea2:
 
     # "But nothing happened. And all I have is a pathetic, twisted wish."
-    ""
+    "Pero no pasó nada. Y todo lo que me queda es un deseo patético y retorcido."
 
 # game/script.rpy:887
 translate spanish ending_envy_cce7dec9:
 
     # "Slowly, I begin to hear a hissing in my head. It starts soft, like wind pushing past the curtains. Then it grows louder, raspy voices in harsh, unfamiliar tongues."
-    ""
+    "Poco a poco, empiezo a oír un siseo en mi cabeza. Al principio es suave, como el viento colándose entre las cortinas. Luego se vuelve más fuerte, voces ásperas en lenguas extrañas y desconocidas."
 
 # game/script.rpy:888
 translate spanish ending_envy_85b7597f:
 
     # "Her."
-    ""
+    "Ella."
 
 # game/script.rpy:889
 translate spanish ending_envy_91077f1b:
 
     # "Her whisper is the curl of a finger, a taut thread tugging on my feet."
-    ""
+    "Su susurro es como el rizo de un dedo, un hilo tenso tirando de mis pies."
 
 # game/script.rpy:893
 translate spanish ending_envy_fbaa4277:
 
     # "I’m back outside, looking into the backyard where we buried him. A harsh breeze cuts through the forest, raising goosebumps across my skin."
-    ""
+    "Estoy de nuevo afuera, mirando hacia el patio donde lo enterramos. Una brisa áspera atraviesa el bosque, erizándome la piel."
 
 # game/script.rpy:894
 translate spanish ending_envy_18ead4cc:
 
     # "I stare at the mound of earth — at the grave we had dug for him."
-    ""
+    "Observo el montículo de tierra, la tumba que cavamos para él..."
 
 # game/script.rpy:895
 translate spanish ending_envy_d49bb461:
 
     # "{i}He’s right there,{/i} my mind supplies. {i}The boy I wanted to become.{/i}"
-    ""
+    "{i}Está justo ahí,{/i} me dice mi mente. {i}El chico en el que quería convertirme.{/i}"
 
 # game/script.rpy:896
 translate spanish ending_envy_6d6becf2:
 
     # "My gut stings, painful with all that I want but am still missing."
-    ""
+    "Me arde el estómago, duele por todo lo que deseo y aún me falta."
 
 # game/script.rpy:897
 translate spanish ending_envy_82885341:
 
     # "For the first time, I have a name for it — {i}hunger.{/i}"
-    ""
+    "Por primera vez, tengo un nombre para esto: {i}hambre.{/i}"
 
 # game/script.rpy:902
 translate spanish ending_envy_5af58511:
 
     # "I drop to my knees and start digging."
-    ""
+    "Caigo de rodillas y empiezo a cavar."
 
 # game/script.rpy:903
 translate spanish ending_envy_84c17301:
 
     # "The thoughts in my head begin to cease, replaced by the repetitive scrape of earth against my hands."
-    ""
+    "Los pensamientos en mi cabeza empiezan a desvanecerse, reemplazados por el raspar repetitivo de la tierra contra mis manos."
 
 # game/script.rpy:904
 translate spanish ending_envy_6d7c9e4f:
 
     # "Then, I hit flesh."
-    ""
+    "Entonces, tocó carne."
 
 # game/script.rpy:909
 translate spanish ending_envy_f8fe948c:
 
     # "Here is — his boyish jaw, adam’s apple and broad shoulders rotted away.{w} And she still loves him. Even though he hurt her, even though he…"
-    ""
+    "Aquí está: su mandíbula, la nuez de Adán y esos hombros anchos, ya podridos.{w} Y aun así ella lo sigue amando. Aunque le hizo daño, aunque él..."
 
 # game/script.rpy:910
 translate spanish ending_envy_bca749ba:
 
     # "{i}Take what you want.{/i}"
-    ""
+    "{i}Toma lo que quieras.{/i}"
 
 # game/script.rpy:911
 translate spanish ending_envy_88fa8c09:
 
     # "The voice is in a tongue I shouldn’t recognise, but I know what it says. After all, it’s been in my head for a while."
-    ""
+    "La voz está en un idioma que no debería entender, pero sé lo que dice. Al fin y al cabo, lleva tiempo rondando en mi cabeza."
 
 # game/script.rpy:912
 translate spanish ending_envy_4035055b:
 
     # "Demon or devil, it doesn’t matter. She’s the one who heard me all those years ago. She’s the only one who knows how bad I’ve wanted this."
-    ""
+    "Demonio o diablo, no importa. Ella fue quien me escuchó todos esos años atrás. Es la única que sabe cuánto he deseado esto."
 
 # game/script.rpy:913
 translate spanish ending_envy_009aa7a4:
 
     # "{i}Wear his skin, and your wish can come true too.{/i}"
-    ""
+    "{i}Ponte su piel, y tu deseo también se hará realidad.{/i}"
 
 # game/script.rpy:914
 translate spanish ending_envy_e6d021ff:
 
     # "The hollow ache in my stomach is all-consuming, something that threatens to eat me up from the inside out."
-    ""
+    "El vacío en mi estómago lo consume todo, una sensación que amenaza con devorarme desde dentro."
 
 # game/script.rpy:919
 translate spanish ending_envy_d3495bd8:
 
     # "I reach forward, sinking my hands into flesh."
-    ""
+    "Extiendo las manos y las hundo en la carne."
 
 # game/script.rpy:920
 translate spanish ending_envy_cc1a18f9:
 
     # "It breaks easily under my fingers. Blood slicks over my fingers, smearing over my hands."
-    ""
+    "Se deshace fácilmente bajo mis dedos. La sangre los cubre y se embarra por todas mis manos."
 
 # game/script.rpy:921
 translate spanish ending_envy_5ea93698:
 
     # "I think about how I am taking him apart.{w} I think about how I am breaking his boyish features, his easy charm and whatever Huimin loved down to its elements again.{w} And now, I can build myself anew with it."
-    ""
+    "Pienso en cómo lo estoy deshaciendo.{w} Pienso en cómo estoy rompiendo sus rasgos juveniles. Pienso en su encanto fácil y todo lo que Huimin amaba de él, reduciéndolo a sus elementos otra vez.{w} Y ahora, puedo reconstruirme a mí misma con eso."
 
 # game/script.rpy:922
 translate spanish ending_envy_7b46b9ae:
 
     # "I bring my hands up to my lips."
-    ""
+    "Llevo las manos a mis labios."
 
 # game/script.rpy:924
 translate spanish ending_envy_85580bdd:
 
     # "He is bitter and sweet, something I hate and something she loved.{w} I chew.{w} Flesh breaks against my teeth, tearing and tearing apart.{w} Blood runs over my tongue, down my lips and my throat."
-    ""
+    "Es amargo y dulce, algo que odio y algo que ella amó.{w} Mastico.{w} La carne se rompe entre mis dientes, desgarrándose una y otra vez.{w} La sangre corre por mi lengua, baja por mis labios y mi garganta."
 
 # game/script.rpy:925
 translate spanish ending_envy_91cae005:
 
     # "For the first time, the gnawing pit in my stomach has settled."
-    ""
+    "Por primera vez, el vacío que me carcomía el estómago se ha calmado."
 
 # game/script.rpy:926
 translate spanish ending_envy_c3fd54e5:
 
     # "{i}She can love me now.{/i}"
-    ""
+    "{i}Ahora sí puede amarme.{/i}"
 
 # game/script.rpy:927
 translate spanish ending_envy_bb801ee5:
 
     # "I feel relieved, even though the rot in my mouth makes me want to heave."
-    ""
+    "Siento alivio, aunque la podredumbre en mi boca me da ganas de vomitar."
 
 # game/script.rpy:928
 translate spanish ending_envy_ce6406cf:
 
     # h "S-Syira?"
-    h ""
+    h "¿S-Syira?"
 
 # game/script.rpy:933
 translate spanish ending_envy_bc6316a7:
 
     # "My head whips around. I see Huimin by the door, a phone cradled carefully in her hands."
-    ""
+    "Giro mi cabeza de golpe. Veo a Huimin en la puerta, sosteniendo el teléfono con ambas manos."
 
 # game/script.rpy:934
 translate spanish ending_envy_d1c3728e:
 
     # "She looks terrified."
-    ""
+    "Tiene una expresión de puro terror."
 
 # game/script.rpy:935
 translate spanish ending_envy_5151a1e0:
 
     # h "What…what are you doing?"
-    h ""
+    h "¿Q-qué... qué estás haciendo?"
 
 # game/script.rpy:937
 translate spanish ending_envy_928db054:
 
     # "I hear sirens in the distance, red and blue lights flashing in the night."
-    ""
+    "Escucho sirenas a lo lejos, luces rojas y azules parpadeando en la noche."
 
 # game/script.rpy:938
 translate spanish ending_envy_f3a174b2:
 
     # s "I wanted you to be mine."
-    s ""
+    s "Quería que fueras mía."
 
 # game/script.rpy:939
 translate spanish ending_envy_bdf4a96b:
 
     # s "But you won’t even look at me. Not even after I killed him."
-    s ""
+    s "Pero ni siquiera me miras. Ni siquiera después de que lo maté."
 
 # game/script.rpy:940
 translate spanish ending_envy_49e85938:
 
     # s "So I wanted to be him. It was the only way."
-    s ""
+    s "Así que quise ser él. Era la única manera."
 
 # game/script.rpy:941
 translate spanish ending_envy_20d0bd08:
 
     # h "No, no…god."
-    h ""
+    h "No, no... joder."
 
 # game/script.rpy:942
 translate spanish ending_envy_3eb2a516:
 
     # s "It was all I ever wished for, all those years ago."
-    s ""
+    s "Era todo lo que siempre había deseado, hace ya tantos años."
 
 # game/script.rpy:943
 translate spanish ending_envy_a2354ffc:
 
     # "The sirens are closer now, but it’s okay. I have all I ever wanted now."
-    ""
+    "Las sirenas están más cerca ahora, pero no importa. Ahora tengo todo lo que siempre quise."
 
 # game/script.rpy:944
 translate spanish ending_envy_0f18a670:
 
     # "Her voice has gone quiet for a while, too."
-    ""
+    "Su voz también ha guardado silencio por un tiempo."
 
 # game/script.rpy:945
 translate spanish ending_envy_c80df11d:
 
     # "I begin to wonder if maybe there was really no malevolent spirit or demon, just me.{w} Just me who ruined Huimin and her dream, me whose jealous heart set us all on a trajectory towards hell."
-    ""
+    "Empiezo a preguntarme si en realidad nunca hubo ningún espíritu maligno ni demonio, solo yo.{w} Solo yo, la que arruinó a Huimin y su sueño, yo, cuyo corazón lleno de celos nos llevó a todas directo al infierno."
 
 # game/script.rpy:946
 translate spanish ending_envy_4fdaab12:
 
     # "It’s a hell I’d gladly accept."
-    ""
+    "Es un infierno que aceptaría con gusto."
 
 # game/script.rpy:958
 translate spanish ending_love_9153f6c8:
 
     # "Huimin is lying on the bed, motionless."
-    ""
+    "Huimin está tumbada en la cama, inmóvil."
 
 # game/script.rpy:959
 translate spanish ending_love_7b89c081:
 
     # s "Do you remember the ritual we did when we were younger?"
-    s ""
+    s "¿Recuerdas el ritual que hicimos cuando éramos niñas?"
 
 # game/script.rpy:960
 translate spanish ending_love_96095f48:
 
     # s "You wanted us to make a wish together."
-    s ""
+    s "Tú querías que pidiéramos un deseo juntas."
 
 # game/script.rpy:961
 translate spanish ending_love_3095f627:
 
     # s "…But I wished for something else.{w} Maybe that’s why it didn’t come true. Maybe that’s why we didn’t stay best friends like you’d hoped for."
-    s ""
+    s "Pero yo pedí otro deseo.{w} Quizá por eso no se cumplió. Quizá por eso no seguimos siendo mejores amigas, como tú esperabas."
 
 # game/script.rpy:962
 translate spanish ending_love_f23cd51a:
 
     # s "Because I don’t just want to be friends.{w} I want you."
-    s ""
+    s "Porque no solo quiero ser tu amiga.{w} Te quiero a ti."
 
 # game/script.rpy:963
 translate spanish ending_love_02c0bae9:
 
     # "And today I know I always will.{w} That I will run to Huimin’s side without a single seed of doubt, that I will lie and kill and bury for her."
-    ""
+    "Y hoy sé que siempre será así.{w} Que correré al lado de Huimin sin una sola duda, que mentiré, mataré y enterraré por ella."
 
 # game/script.rpy:964
 translate spanish ending_love_91b93d55:
 
     # "Even if she said not to waste my time on her, I will chase the imprint of her kiss forever."
-    ""
+    "Aunque ella me haya dicho que no pierda mi tiempo con ella, perseguiré la huella de su beso por siempre."
 
 # game/script.rpy:965
 translate spanish ending_love_c7f8a922:
 
     # "I will feed the pieces of my dream into her, force my pleas and promises pass her lips even if I know she will always, always, spit them back out. I know that and I've known that for years and still the dream does not die."
-    ""
+    "Le daré los pedazos de mi sueño, forzaré que mis súplicas y promesas pasen por sus labios aunque sé que siempre, siempre, los escupirá de vuelta. Lo sé, y lo he sabido por años, y aun así el sueño no muere."
 
 # game/script.rpy:969
 translate spanish ending_love_532ebf6f:
 
     # "Huimin opens her eyes."
-    ""
+    "Huimin abre los ojos."
 
 # game/script.rpy:971
 translate spanish ending_love_bfe78c83:
 
     # "I see the shadow from the backyard, the window, the one who twists my gut in ways both nauseating and intoxicating."
-    ""
+    "Veo la sombra del patio, en la ventana, esa que me retuerce las entrañas de una forma tan nauseabunda como embriagadora."
 
 # game/script.rpy:972
 translate spanish ending_love_7f4db846:
 
     # "I see the red thread I had tied myself to her. The way she followed me through the forest, through the dark and through the years of my turbulent life."
-    ""
+    "Veo el hilo rojo con el que me até a ella. La forma en que me siguió por el bosque, por la oscuridad y a lo largo de los años turbulentos de mi vida."
 
 # game/script.rpy:973
 translate spanish ending_love_477629b6:
 
     # "Of course, this is the only way it can happen for me."
-    ""
+    "Por supuesto, esta es la única forma en que algo así puede pasarme a mí."
 
 # game/script.rpy:974
 translate spanish ending_love_6032900e:
 
     # h "Show me."
-    h ""
+    h "Muéstramelo."
 
 # game/script.rpy:975
 translate spanish ending_love_4544fd30:
 
     # "She reaches up, cupping my face in her hand."
-    ""
+    "Alza la mano y toma mi rostro entre sus dedos."
 
 # game/script.rpy:976
 translate spanish ending_love_b2385970:
 
     # h "Show me that you want me. I’m waiting."
-    h ""
+    h "Muéstrame que me quieres. Estoy esperando."
 
 # game/script.rpy:979
 translate spanish ending_love_ee362a3b:
 
     # "I don’t care that it feels wrong. I’m long past that. So I let her drag me down and kiss her."
-    ""
+    "No me importa que se sienta mal. Hace mucho que dejé de preocuparme por eso. Así que la dejo arrastrarme hacia abajo y besarla."
 
 # game/script.rpy:985
 translate spanish ending_love_9f1ea56f:
 
     # "Her lips are sweet, but as she opens her mouth to invite me in, the taste on my tongue turns sour. Just like rotten flesh.{w} It should repulse me, but something about it feels intoxicating."
-    ""
+    "Sus labios son dulces, pero cuando abre la boca para invitarme a entrar, el sabor en mi lengua se vuelve amargo. Como carne podrida.{w} Debería repelerme, pero hay algo en ello que resulta embriagador."
 
 # game/script.rpy:986
 translate spanish ending_love_eadcb975:
