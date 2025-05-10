@@ -2104,7 +2104,7 @@ translate spanish dream_sleepover_466c9892:
 translate spanish dream_sleepover_f6dcbec2:
 
     # "In the corner of my vision, I see a shape behind the curtain. That’s when I knew that this memory returning like this is Her —{w} the spirit in the banana tree, the demon I made my wish to.{w} This is her cruel way of dangling what I want so badly before my eyes."
-    "Por el rabillo del ojo, veo una figura detrás de la cortina. Ahí es cuando entiendo que este recuerdo que vuelve así es Ella —{w} el espíritu del platanero, el demonio al que le pedí mi deseo.{w} Esta es su forma cruel de poner frente a mí, tan cerca, lo que más deseo."
+    "Por el rabillo del ojo, veo una figura detrás de la cortina. Ahí es cuando entiendo que este recuerdo que vuelve así es 'Ella'{w} el espíritu del platanero, el demonio al que le pedí mi deseo.{w} Esta es su forma cruel de poner frente a mí, tan cerca, lo que más deseo."
 
 # game/script.rpy:844
 translate spanish dream_sleepover_85266d41:
