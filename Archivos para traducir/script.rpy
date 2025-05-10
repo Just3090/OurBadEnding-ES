@@ -640,7 +640,7 @@ translate spanish chalet_aa849d41:
 translate spanish chalet_e79bf5f4:
 
     # s "Let’s bury him here."
-    s "Enterrémoslo aquí.
+    s "Enterrémoslo aquí."
 
 # game/script.rpy:435
 translate spanish chalet_8f171613:
