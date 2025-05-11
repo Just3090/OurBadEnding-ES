@@ -2590,145 +2590,145 @@ translate spanish ending_love_9f1ea56f:
 translate spanish ending_love_eadcb975:
 
     # "I move to straddle her, wanting to be closer.{w} I imagine our bodies as broken puzzle pieces, forced together by a wish, bruising where we meet."
-    ""
+    "Me coloco sobre ella, deseando estar más cerca.{w} Imagino nuestros cuerpos como piezas de un rompecabezas roto, forzadas a encajar por un deseo, magullándose donde se encuentran."
 
 # game/script.rpy:987
 translate spanish ending_love_fba35cc5:
 
     # "If it hurts enough, maybe we can be moulded into the shape of each other."
-    ""
+    "Si duele lo suficiente, quizá podamos moldearnos con la forma de la otra."
 
 # game/script.rpy:992
 translate spanish ending_love_166aa0fa:
 
     # "I run my hands along her stomach."
-    ""
+    "Deslizo mis manos por su vientre."
 
 # game/script.rpy:993
 translate spanish ending_love_8787879e:
 
     # "She moans, a soft and haunting sound. It strips me naked, desire rising in my gut like bile."
-    ""
+    "Gime, un sonido suave y perturbador. Me deja al desnudo, el deseo subiendo por mis entrañas como la bilis."
 
 # game/script.rpy:994
 translate spanish ending_love_ce499d58:
 
     # "I push my fingers under her blouse, unearthing more and more bruises.{w} Red, purple and blue. The sum of her wounds, mapped out beneath my hands."
-    ""
+    "Deslizo mis dedos bajo su blusa, descubriendo cada vez más moratones.{w} Rojos, morados y azules. El mapa de sus heridas, dibujado bajo mis manos."
 
 # game/script.rpy:995
 translate spanish ending_love_2a2dac13:
 
     # "She’s beautiful.{w} I don’t care if this ruins me."
-    ""
+    "Es hermosa.{w} No me importa si esto me arruina."
 
 # game/script.rpy:996
 translate spanish ending_love_2b5aa185:
 
     # "I don’t care if the pressure crushes my organs or if my secrets are spilled from my lips and never returned. I don’t care if she takes me apart and never puts me back together."
-    ""
+    "No me importa si la presión aplasta mis órganos o si mis secretos se escapan de mis labios y nunca regresan. No me importa si ella me desarma y nunca vuelve a reconstruirme."
 
 # game/script.rpy:997
 translate spanish ending_love_dc67e1e9:
 
     # "I’ll gladly be swallowed by a tide of her making."
-    ""
+    "Con gusto dejaría que me tragara una marea creada por ella."
 
 # game/script.rpy:1001
 translate spanish ending_love_9f2557a5:
 
     # h "Syira…"
-    h ""
+    h "S-Syira..."
 
 # game/script.rpy:1002
 translate spanish ending_love_00aff33f:
 
     # "She curls her arms around my neck, pulling herself close. Her lips press against my throat."
-    ""
+    "Con sus brazos alrededor de mi cuello acercándose a mí, sus labios se posan en mi garganta."
 
 # game/script.rpy:1004
 translate spanish ending_love_025fb926:
 
     # h "Do you know the price of your wish?"
-    h ""
+    h "¿Sabes cuál es el precio de tu deseo?"
 
 # game/script.rpy:1005
 translate spanish ending_love_baa6b863:
 
     # "I know she’s speaking against my skin, but I hear her voice inside my head, deep and guttural like an inhuman growl.{w} Suddenly, her nails grow sharp against my skin, scraping against my pulse. My body goes cold."
-    ""
+    "Sé que está hablando contra mi piel, pero escucho su voz dentro de mi cabeza, profunda y gutural como un gruñido inhumano.{w} De repente, sus uñas se afilan contra mi piel, arañando mi pulso. Mi cuerpo se enfría."
 
 # game/script.rpy:1006
 translate spanish ending_love_68a9852f:
 
     # "I swallow.{w} She must taste my fear through my throat.{w} She must know that as much as I am afraid, I will not run."
-    ""
+    "Trago saliva.{w} Seguro puede saborear mi miedo a través de mi garganta.{w} Debe saber que, aunque tenga miedo, no voy a huir."
 
 # game/script.rpy:1007
 translate spanish ending_love_872cfd1b:
 
     # "I feel her lips pull tight into a smile, all teeth against the jugular of my neck."
-    ""
+    "Siento sus labios tensarse en una sonrisa, todos sus dientes contra la yugular de mi cuello."
 
 # game/script.rpy:1010
 translate spanish ending_love_0585f6db:
 
     # h "It’s you."
-    h ""
+    h "Eres tú."
 
 # game/script.rpy:1015
 translate spanish ending_love_161ac578:
 
     # "I close my eyes."
-    ""
+    "Cierro los ojos."
 
 # game/script.rpy:1016
 translate spanish ending_love_193eb66d:
 
     # "I hope my blood is warm against her lips.{w} I hope my heart is as black as it feels.{w} And I hope that when she is done with me — that she will drag me straight to hell."
-    ""
+    "Espero que mi sangre sea cálida en sus labios.{w} Espero que mi corazón sea tan negro como lo siento.{w} Y espero que, cuando termine conmigo, me arrastre directo al infierno."
 
 # game/script.rpy:1017
 translate spanish ending_love_26777664:
 
     # "It doesn’t matter if it’s a bad ending as long as it’s one I can share with her."
-    ""
+    "No importa si es un final malo, mientras sea uno que pueda compartir con ella."
 
 translate spanish strings:
 
     # game/script.rpy:158
     old "Gallery"
-    new ""
+    new "Galería"
 
     # game/script.rpy:472
     old "Ask her about the bruises"
-    new ""
+    new "Preguntarle por los moratones"
 
     # game/script.rpy:472
     old "Talk about a memory"
-    new ""
+    new "Hablar sobre un recuerdo"
 
     # game/script.rpy:590
     old "Talk about how you graduated (together)"
-    new ""
+    new "Hablar sobre cómo se graduaron juntas"
 
     # game/script.rpy:590
     old "Talk about university (where she was dating him)"
-    new ""
+    new "Hablar sobre la universidad (cuando ella salía con él)"
 
     # game/script.rpy:682
     old "Turn off the light"
-    new ""
+    new "Apagar la luz"
 
     # game/script.rpy:682
     old "Wait"
-    new ""
+    new "Esperar"
 
     # game/script.rpy:704
     old "Huimin and her boyfriend fought"
-    new ""
+    new "Huimin y su novio pelearon"
 
     # game/script.rpy:704
     old "We slept over together"
-    new ""
+    new "Nos quedamos a dormir juntas"
 
