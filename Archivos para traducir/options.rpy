@@ -4,5 +4,5 @@ translate spanish strings:
 
     # game/options.rpy:15
     old "Our Bad Ending"
-    new ""
+    new "Our Bad Ending"
 
