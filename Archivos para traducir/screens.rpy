@@ -4,365 +4,365 @@ translate spanish strings:
 
     # game/screens.rpy:254
     old "Back"
-    new ""
+    new "Atras"
 
     # game/screens.rpy:255
     old "History"
-    new ""
+    new "Historia"
 
     # game/screens.rpy:256
     old "Skip"
-    new ""
+    new "Omitir"
 
     # game/screens.rpy:257
     old "Auto"
-    new ""
+    new "Auto"
 
     # game/screens.rpy:258
     old "Save"
-    new ""
+    new "Guardar"
 
     # game/screens.rpy:259
     old "Q.Save"
-    new ""
+    new "G.Rapido"
 
     # game/screens.rpy:260
     old "Q.Load"
-    new ""
+    new "C.Rapido"
 
     # game/screens.rpy:261
     old "Prefs"
-    new ""
+    new "Opciones"
 
     # game/screens.rpy:262
     old "Hide"
-    new ""
+    new "Ocultar"
 
     # game/screens.rpy:310
     old "Start"
-    new ""
+    new "Nueva Partida"
 
     # game/screens.rpy:319
     old "Load"
-    new ""
+    new "Cargar"
 
     # game/screens.rpy:321
     old "Preferences"
-    new ""
+    new "Opciones"
 
     # game/screens.rpy:325
     old "End Replay"
-    new ""
+    new "Fin de Repetición"
 
     # game/screens.rpy:329
     old "Main Menu"
-    new ""
+    new "Menú Principal"
 
     # game/screens.rpy:331
     old "About"
-    new ""
+    new "Créditos"
 
     # game/screens.rpy:336
     old "Help"
-    new ""
+    new "Ayuda"
 
     # game/screens.rpy:339
     old "Quit"
-    new ""
+    new "Salir"
 
     # game/screens.rpy:485
     old "Return"
-    new ""
+    new "Volver"
 
     # game/screens.rpy:570
     old "Version [config.version!t]\n"
-    new ""
+    new "Version [config.version!t]\n"
 
     # game/screens.rpy:578
     old "Android Version by: just6889 | President of {a=https://traduction-club.live/}Traduction Club!{/a}"
-    new ""
+    new "Version para Android por: just6889 | Presidente de {a=https://traduction-club.live/}Traduction Club!{/a}"
 
     # game/screens.rpy:588
     old "Encuentra más traducciones en {a=https://traduction-club.live/}nuestra página web{/a} (click aquí)."
-    new ""
+    new "Encuentra más traducciones en {a=https://traduction-club.live/}nuestra página web{/a} (click aquí)."
 
     # game/screens.rpy:590
     old "Más creditos de traductores aquí..."
-    new ""
+    new "Más creditos de traductores aquí..."
 
     # game/screens.rpy:592
     old "just6889 | Porteador y traductor (Traduction Club!)"
-    new ""
+    new "just6889 | Porteador y traductor (Traduction Club!)"
 
     # game/screens.rpy:596
     old "Art, story and coding by Seth, otherwise known as Fever Fiction. Their other works are available at {a=https://www.feverfiction.com}www.feverfiction.com{/a}"
-    new ""
+    new "Arte, historia y programación por Seth, también conocido como Fever Fiction. Sus otros trabajos están disponibles en {a=https://www.feverfiction.com}www.feverfiction.com{/a}"
 
     # game/screens.rpy:597
     old " "
-    new ""
+    new " "
 
     # game/screens.rpy:598
     old "Music by {a=https://aleksis-tristan-shaw.itch.io}Aleksis Tristan Shaw{/a} and {a=https://makotohiramatsu.itch.io}Makoto Hiramatsu{/a}, used under a Creative Commons Attribution 4.0 International (CC BY 4.0) license."
-    new ""
+    new "Música por {a=https://aleksis-tristan-shaw.itch.io}Aleksis Tristan Shaw{/a} y {a=https://makotohiramatsu.itch.io}Makoto Hiramatsu{/a}, bajo el uso de la licencia Creative Commons Attribution 4.0 International (CC BY 4.0)."
 
     # game/screens.rpy:600
     old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
-    new ""
+    new "Hecho con {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
 
     # game/screens.rpy:636
     old "Page {}"
-    new ""
+    new "Página {}"
 
     # game/screens.rpy:636
     old "Automatic saves"
-    new ""
+    new "Guardados Automaticos"
 
     # game/screens.rpy:636
     old "Quick saves"
-    new ""
+    new "Guardados Rapidos"
 
     # game/screens.rpy:678
     old "{#file_time}%A, %B %d %Y, %H:%M"
-    new ""
+    new "{#file_time}%A, %B %d %Y, %H:%M"
 
     # game/screens.rpy:678
     old "empty slot"
-    new ""
+    new "ranura vacia"
 
     # game/screens.rpy:698
     old "<"
-    new ""
+    new "<"
 
     # game/screens.rpy:701
     old "{#auto_page}A"
-    new ""
+    new "{#auto_page}A"
 
     # game/screens.rpy:704
     old "{#quick_page}Q"
-    new ""
+    new "{#quick_page}R"
 
     # game/screens.rpy:710
     old ">"
-    new ""
+    new ">"
 
     # game/screens.rpy:714
     old "Upload Sync"
-    new ""
+    new "Subir Partida"
 
     # game/screens.rpy:718
     old "Download Sync"
-    new ""
+    new "Descargar Partida"
 
     # game/screens.rpy:777
     old "Display"
-    new ""
+    new "Pantalla"
 
     # game/screens.rpy:778
     old "Window"
-    new ""
+    new "Ventana"
 
     # game/screens.rpy:779
     old "Fullscreen"
-    new ""
+    new "Pantalla Completa"
 
     # game/screens.rpy:784
     old "Unseen Text"
-    new ""
+    new "Omitir texto no leído"
 
     # game/screens.rpy:785
     old "After Choices"
-    new ""
+    new "Omitir después de decisiones"
 
     # game/screens.rpy:786
     old "Transitions"
-    new ""
+    new "Transiciones"
 
     # game/screens.rpy:799
     old "Text Speed"
-    new ""
+    new "Velocidad del texto"
 
     # game/screens.rpy:803
     old "Auto-Forward Time"
-    new ""
+    new "Saltos de tiempo automáticos"
 
     # game/screens.rpy:810
     old "Music Volume"
-    new ""
+    new "Volumen de música"
 
     # game/screens.rpy:817
     old "Sound Volume"
-    new ""
+    new "Volumen de sonido"
 
     # game/screens.rpy:823
     old "Test"
-    new ""
+    new "Test"
 
     # game/screens.rpy:827
     old "Voice Volume"
-    new ""
+    new "Volumen de voces"
 
     # game/screens.rpy:838
     old "Mute All"
-    new ""
+    new "Silenciar todo"
 
     # game/screens.rpy:845
     old "Language"
-    new ""
+    new "Idioma"
 
     # game/screens.rpy:965
     old "The dialogue history is empty."
-    new ""
+    new "La historia está vacía."
 
     # game/screens.rpy:1033
     old "Keyboard"
-    new ""
+    new "Teclado"
 
     # game/screens.rpy:1034
     old "Mouse"
-    new ""
+    new "Mouse"
 
     # game/screens.rpy:1037
     old "Gamepad"
-    new ""
+    new "Mando"
 
     # game/screens.rpy:1050
     old "Enter"
-    new ""
+    new "Enter"
 
     # game/screens.rpy:1051
     old "Advances dialogue and activates the interface."
-    new ""
+    new "Avanza diálogos y activa botones."
 
     # game/screens.rpy:1054
     old "Space"
-    new ""
+    new "Espacio"
 
     # game/screens.rpy:1055
     old "Advances dialogue without selecting choices."
-    new ""
+    new "Avanza diálogos sin escoger opciones"
 
     # game/screens.rpy:1058
     old "Arrow Keys"
-    new ""
+    new "Flechas del teclado"
 
     # game/screens.rpy:1059
     old "Navigate the interface."
-    new ""
+    new "Navegar por la interfaz."
 
     # game/screens.rpy:1062
     old "Escape"
-    new ""
+    new "Escape"
 
     # game/screens.rpy:1063
     old "Accesses the game menu."
-    new ""
+    new "Activa el menú del juego."
 
     # game/screens.rpy:1066
     old "Ctrl"
-    new ""
+    new "Ctrl"
 
     # game/screens.rpy:1067
     old "Skips dialogue while held down."
-    new ""
+    new "Omite diálogos mientros lo dejas pulsado."
 
     # game/screens.rpy:1070
     old "Tab"
-    new ""
+    new "Tab"
 
     # game/screens.rpy:1071
     old "Toggles dialogue skipping."
-    new ""
+    new "Activa/Desactiva omitir texto."
 
     # game/screens.rpy:1074
     old "Page Up"
-    new ""
+    new "Page Up"
 
     # game/screens.rpy:1075
     old "Rolls back to earlier dialogue."
-    new ""
+    new "Te regresa al diálogo anterior."
 
     # game/screens.rpy:1078
     old "Page Down"
-    new ""
+    new "Page Down"
 
     # game/screens.rpy:1079
     old "Rolls forward to later dialogue."
-    new ""
+    new "Te lleva al diálogo siguiente."
 
     # game/screens.rpy:1083
     old "Hides the user interface."
-    new ""
+    new "Oculta la interfaz."
 
     # game/screens.rpy:1087
     old "Takes a screenshot."
-    new ""
+    new "Toma una captura de pantalla."
 
     # game/screens.rpy:1091
     old "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
-    new ""
+    new "Activa/Desactiva el {a=https://www.renpy.org/l/voicing}dictado por voz{/a}."
 
     # game/screens.rpy:1095
     old "Opens the accessibility menu."
-    new ""
+    new "Abre el menú de accesibilidad."
 
     # game/screens.rpy:1101
     old "Left Click"
-    new ""
+    new "Click Izquierdo"
 
     # game/screens.rpy:1105
     old "Middle Click"
-    new ""
+    new "Click Central"
 
     # game/screens.rpy:1109
     old "Right Click"
-    new ""
+    new "Click Derecho"
 
     # game/screens.rpy:1113
     old "Mouse Wheel Up"
-    new ""
+    new "Rueda del mouse Arriba"
 
     # game/screens.rpy:1117
     old "Mouse Wheel Down"
-    new ""
+    new "Rueda del mouse Abajo"
 
     # game/screens.rpy:1124
     old "Right Trigger\nA/Bottom Button"
-    new ""
+    new "Gatillo Derecho\nA/Botón Superior"
 
     # game/screens.rpy:1128
     old "Left Trigger\nLeft Shoulder"
-    new ""
+    new "Gatillo Izquierdo\nL1"
 
     # game/screens.rpy:1132
     old "Right Shoulder"
-    new ""
+    new "R1"
 
     # game/screens.rpy:1136
     old "D-Pad, Sticks"
-    new ""
+    new "Cruceta, Sticks"
 
     # game/screens.rpy:1140
     old "Start, Guide, B/Right Button"
-    new ""
+    new "Iniciar, Ayuda, B/Botón de la derecha"
 
     # game/screens.rpy:1144
     old "Y/Top Button"
-    new ""
+    new "Y/Botón superior"
 
     # game/screens.rpy:1147
     old "Calibrate"
-    new ""
+    new "Calibrar"
 
     # game/screens.rpy:1212
     old "Yes"
-    new ""
+    new "Sí"
 
     # game/screens.rpy:1213
     old "No"
-    new ""
+    new "No"
 
     # game/screens.rpy:1259
     old "Skipping"
-    new ""
+    new "Omitiendo"
 
