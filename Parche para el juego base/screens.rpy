@@ -591,6 +591,10 @@ screen about():
                 null height 10
                 text _("just6889 | Porteador y traductor (Traduction Club!)") xalign .5
                 null height 35
+                text _("Fran (franelcrack5366) | Traductor (Traduction Club!)") xalign .5
+                null height 35
+                text _("Balines (bali_jd) | Traductor (Traduction Club!)") xalign .5
+                null height 35
                 text _("")
 
             text _("Art, story and coding by Seth, otherwise known as Fever Fiction. Their other works are available at {a=https://www.feverfiction.com}www.feverfiction.com{/a}")
